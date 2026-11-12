@@ -1,0 +1,102 @@
+id,date,start,end,type,title,room,speakers,org,notes,paper_count
+c26-001,2026-11-10,08:00,19:30,Registration,Bodega / Inscripciones,De la Vega,,,,0
+c26-002,2026-11-10,08:00,19:30,Logistics,Montaje de la feria,Salón Real,,,,0
+c26-003,2026-11-10,09:00,12:30,Workshop / tutorial,Taller de fabricación de chips Tiny Tapeout,Asturias,,Open Silicon · IEEE · Galileo,,0
+c26-004,2026-11-10,12:30,14:00,Lunch,ALMUERZO,Asturias,,,,0
+c26-005,2026-11-10,14:00,17:00,Workshop / tutorial,Taller de fabricación de chips Tiny Tapeout,Asturias,,Open Silicon · IEEE · Galileo,,0
+c26-006,2026-11-11,08:00,12:30,Workshop / tutorial,Taller de fabricación de chips Tiny Tapeout,Asturias,,Open Silicon · IEEE · Galileo,,0
+c26-007,2026-11-11,08:00,12:30,Workshop / tutorial,Taller de semiconductores,Cafetal 2,,TryEngineering,,0
+c26-008,2026-11-11,08:00,12:30,Workshop / tutorial,"Tutorial: Subestaciones eléctricas, una visión holística",Dalí,Gustavo Salloum,,,0
+c26-009,2026-11-11,08:00,12:30,Registration,Bodega / Inscripciones,De la Vega,,,,0
+c26-010,2026-11-11,08:00,12:30,Workshop / tutorial,"Tutorial: Calidad de la energía, problemas, causas y soluciones",Garavito,Gustavo Ramos,,,0
+c26-011,2026-11-11,08:00,16:30,Logistics,Montaje de la feria,Salón Real,,,,0
+c26-012,2026-11-11,09:30,12:30,Workshop / tutorial,Mini STEM-Summit,Cafetal 1,,IEEE,,0
+c26-013,2026-11-11,12:30,14:00,Lunch,ALMUERZO,All rooms,,,,0
+c26-014,2026-11-11,14:00,16:30,Workshop / tutorial,Taller de fabricación de chips Tiny Tapeout,Asturias,,Open Silicon · IEEE · Galileo,,0
+c26-015,2026-11-11,14:00,16:30,Forum,Chip Forum: El futuro de los semiconductores comienza en nuestra región,Auditorium,,,,0
+c26-016,2026-11-11,14:00,16:30,Workshop / tutorial,"Tutorial: Subestaciones eléctricas, una visión holística",Dalí,Gustavo Salloum,,,0
+c26-017,2026-11-11,14:00,16:30,Registration,Bodega / Inscripciones,De la Vega,,,,0
+c26-018,2026-11-11,14:00,16:30,Workshop / tutorial,"Tutorial: Calidad de la energía, problemas, causas y soluciones",Garavito,Gustavo Ramos,,,0
+c26-019,2026-11-11,16:30,19:00,Social event,Inauguración de la feria,Salón Real,,,,0
+c26-020,2026-11-11,19:00,23:30,Social event,Cena de Inauguración,Not stated,,,,0
+c26-021,2026-11-12,09:00,10:00,Keynote,Conferencia Magistral Inaugural: El gato de Schrödinger amenaza la confianza digital,Auditorium – Garavito (shared),PhD Julio González Sáenz y Eric Sosa,,"Invited-presentations page lists ""Dr. Julio González-Sáenz & Erick Sosa"" (Vodafone UK · GBM · InnoQlar Group).",0
+c26-022,2026-11-12,09:00,10:00,Workshop / tutorial,Taller Smart Village,Cafetal 2,,IEEE,,0
+c26-023,2026-11-12,09:00,10:00,Industry talk,Inovando en conexiones eléctricas y red compacta,"Salón Expositores, 2do nivel (Entrada Libre)",,IMPELSA,,0
+c26-024,2026-11-12,09:00,18:00,Trade fair,Feria comercial · Exposición de stands,Salón Real,,,Runs all day in the grid; exact hours not printed.,0
+c26-025,2026-11-12,10:00,10:30,Break,COFFEE BREAK,All rooms,,,,0
+c26-026,2026-11-12,10:30,11:30,Technical paper session,PES-1 · Solar PV & Distributed Generation,Asturias,,Power & Energy,,5
+c26-027,2026-11-12,10:30,12:30,Forum,"Foro: Nueva generación de energía renovable, inversión, desarrollo y estabilidad",Auditorium,,AGER · PES,,0
+c26-028,2026-11-12,10:30,12:30,Workshop / tutorial,Taller TryEngineering,Cafetal 1,,,,0
+c26-029,2026-11-12,10:30,12:30,Workshop / tutorial,Taller Smart Village,Cafetal 2,,IEEE,,0
+c26-030,2026-11-12,10:30,11:30,Technical paper session,"CS-1 · ML Methods, Modelling & Simulation",Dalí,,Computer,,5
+c26-031,2026-11-12,10:30,11:30,Invited talk,Factor Graphs FTW: From SLAM to Control to Robot Dynamics,De la Vega,Prof. Frank Dellaert,RAS,,0
+c26-032,2026-11-12,10:30,11:30,Technical paper session,IAS-1 · Industrial AI & Industry 4.0,Garavito,,Industry Applications,,5
+c26-033,2026-11-12,10:30,11:00,Industry talk,Almacenamiento de energia - BESS,"Salón Expositores, 2do nivel (Entrada Libre)",,ANXOR,,0
+c26-034,2026-11-12,11:00,11:30,Industry talk,La Energía que nos hace Avanzar.,"Salón Expositores, 2do nivel (Entrada Libre)",,ENERWIRE,,0
+c26-035,2026-11-12,11:30,12:30,Technical paper session,"PES-2 · Energy Policy, Buildings & Community Energy",Asturias,,Power & Energy,,5
+c26-036,2026-11-12,11:30,12:30,Technical paper session,"RAS-1 · Manipulators, Perception & Robot Vision",Dalí,,Robotics & Automation,,5
+c26-037,2026-11-12,11:30,12:30,Invited talk,Energía sostenible y conectividad para la salud y la educación,De la Vega,Mónica Huerta,EMBS-IEEE,,0
+c26-038,2026-11-12,11:30,12:30,Technical paper session,COM-1 · IoT Sensing & Environmental Monitoring,Garavito,,Communications,"Chair: Cesar Azurdia (Universidad de Chile, Chile)",5
+c26-039,2026-11-12,11:30,12:00,Industry talk,Reconectadores,"Salón Expositores, 2do nivel (Entrada Libre)",,ELECTROVAL,,0
+c26-040,2026-11-12,12:00,12:30,Industry talk,Soluciones de mediación Inteligente,"Salón Expositores, 2do nivel (Entrada Libre)",,CELASA,,0
+c26-041,2026-11-12,12:30,14:00,Lunch,ALMUERZO,All rooms,,,,0
+c26-042,2026-11-12,14:00,15:00,Technical paper session,COM-2 · Wireless & Optical Communications,Asturias,,Communications,"Chair: Cesar Azurdia (Universidad de Chile, Chile)",5
+c26-043,2026-11-12,14:00,16:00,Forum,"Foro: De la planificación a la energización, cómo acelerar la transmisión en Guatemala",Auditorium,,AGTE · IEEE,,0
+c26-044,2026-11-12,14:00,16:00,Workshop / tutorial,Taller EPICS,Cafetal 1,,,,0
+c26-045,2026-11-12,14:00,16:00,Panel,Panel WIE / Young Professionals,Cafetal 2,,IEEE,,0
+c26-046,2026-11-12,14:00,15:00,Technical paper session,BIO-1 · Assistive & Human-Centered Technologies,Dalí,,Biomedical Engineering,,4
+c26-047,2026-11-12,14:00,16:00,Workshop / tutorial,Electrical Safety Workshop Track,De la Vega,Ing. Marcelo Valdez · Ing. Gustavo Salloum · Dr. Gustavo Ramos,,,0
+c26-048,2026-11-12,14:00,15:00,Technical paper session,EDU-1 · Educational Technology & STEM,Garavito,,Education,,4
+c26-049,2026-11-12,14:00,14:30,Industry talk,CHINT: Electrical seminar,"Salón Expositores, 2do nivel (Entrada Libre)",,CHINT,,0
+c26-050,2026-11-12,14:30,15:00,Industry talk,Equipos de seguridad,"Salón Expositores, 2do nivel (Entrada Libre)",,KET PLUS,,0
+c26-051,2026-11-12,15:00,16:00,Technical paper session,"COM-3 · Networks, Security & Edge Computing",Asturias,,Communications,"Chair: Oscar A. Gonzalez Lira (Universidad Galileo, Guatemala)",5
+c26-052,2026-11-12,15:00,16:00,Technical paper session,"BIO-2 · Biomedical Signals, Data & Health Informatics",Dalí,,Biomedical Engineering,,5
+c26-053,2026-11-12,15:00,16:00,Technical paper session,CS-2 · Generative AI & Software Engineering,Garavito,,Computer,,5
+c26-054,2026-11-12,15:00,15:30,Industry talk,"""Cables para líneas de transmisión subterráneas""","Salón Expositores, 2do nivel (Entrada Libre)",,VIAKON,,0
+c26-055,2026-11-12,15:30,16:00,Industry talk,"Transformación digital, utilizando la IEC 61850 como guia","Salón Expositores, 2do nivel (Entrada Libre)",,ESINSA,,0
+c26-056,2026-11-12,16:00,16:30,Break,COFFEE BREAK,All rooms,,,,0
+c26-057,2026-11-12,16:30,17:30,Technical paper session,PES-3 · Distribution & Transmission Networks,Asturias,,Power & Energy,,5
+c26-058,2026-11-12,16:30,17:30,Invited talk,Datacenters y energía: ¿está Guatemala preparada?,Auditorium,Ing. Sergio Fratti,BICSI,,0
+c26-059,2026-11-12,16:30,17:30,Technical paper session,"CS-3 · Computing for Society: Security, Privacy & Analytics",Cafetal 2,,Computer,,5
+c26-060,2026-11-12,16:30,17:30,Technical paper session,IAS-2 · Industrial Power Systems & Electrical Machines,Dalí,,Industry Applications,,5
+c26-061,2026-11-12,16:30,17:30,Workshop / tutorial,Electrical Safety Workshop Track,De la Vega,Ing. Nehad El Sherif · Ing. José Vallejos,,,0
+c26-062,2026-11-12,16:30,17:30,Technical paper session,EDS-1 · Semiconductor Devices & Space Electronics,Garavito,,Electron Devices,,4
+c26-063,2026-11-12,16:30,18:00,Industry talk,Net Working,"Salón Expositores, 2do nivel (Entrada Libre)",,,,0
+c26-064,2026-11-12,18:30,23:30,Social event,Cena Típica,Hotel Barceló,,,,0
+c26-065,2026-11-13,08:00,16:30,Trade fair,Feria comercial · Exposición de stands,Salón Real,,,Runs until the fair closing at 16:30; start time not printed.,0
+c26-066,2026-11-13,09:00,10:00,Invited talk,Transformación de la atención de la salud mediante la convergencia de la ciencia y la tecnología,Asturias,PhD Luis Kun,,,0
+c26-067,2026-11-13,09:00,10:00,Invited talk,"Gobernar la IA, proteger los datos, blindar la red: el nuevo mandato del CISO",Auditorium,,Liberty Networks,,0
+c26-068,2026-11-13,09:00,10:00,Meeting,Reunión Consejo CAPANA,Cafetal 2,,,,0
+c26-069,2026-11-13,09:00,10:00,Invited talk,Código de Red: herramienta para una transición energética en la región,Dalí,Luis Iván Ruiz,,,0
+c26-070,2026-11-13,09:00,10:00,Invited talk,STATCOM en Latinoamérica: diseño e implementación de sistemas dinámicos de última generación,De la Vega,Ing. Iván Isidro García,,,0
+c26-071,2026-11-13,09:00,10:00,Invited talk,The Importance and Process of Auditing an Electrical Safety Program,Garavito,Shahid Jamil,IEEE IAS,,0
+c26-072,2026-11-13,09:00,10:00,Industry talk,Digitalizacion de subestaciones bajo el estándar IEC 61850,"Salón Expositores, 2do nivel (Entrada Libre)",,ELECTROTEK,,0
+c26-073,2026-11-13,10:00,10:30,Break,COFFEE BREAK,All rooms,,,,0
+c26-074,2026-11-13,10:30,11:30,Technical paper session,PES-4 · Wind Energy Systems,Asturias,,Power & Energy,,5
+c26-075,2026-11-13,10:30,12:30,Forum,Foro IA-Verse: El nuevo ecosistema digital e industrial,Auditorium,,,,0
+c26-076,2026-11-13,10:30,12:30,Meeting,Reunión Consejo CAPANA,Cafetal 2,,,,0
+c26-077,2026-11-13,10:30,11:30,Technical paper session,"RAS-2 · Robotat Ecosystem, Swarms & Aerial Robotics",Dalí,,Robotics & Automation,,5
+c26-078,2026-11-13,10:30,12:30,Invited talk,FET100 Session,De la Vega,Fernando Guarín (EDS IEEE) · Prof. Paul Berger · Dr. Wilfrido Moreno,,,0
+c26-079,2026-11-13,10:30,11:30,Technical paper session,"CAS-1 · Circuits, Digital Hardware & Timing",Garavito,,Circuits & Systems,,5
+c26-080,2026-11-13,10:30,11:00,Industry talk,Transformando la gestión de redes eléctricas mediante telegestión: experiencias exitosas de Brasil e implementación en Centroamérica,"Salón Expositores, 2do nivel (Entrada Libre)",,(company not stated),,0
+c26-081,2026-11-13,11:00,11:30,Industry talk,De la deteccion a la decision: tres aplicaciones de monitoreo continuo con impacto operativo y económico,"Salón Expositores, 2do nivel (Entrada Libre)",,SENSA,,0
+c26-082,2026-11-13,11:30,12:30,Technical paper session,"PES-5 · Renewable Planning, Forecasting & Storage",Asturias,,Power & Energy,,5
+c26-083,2026-11-13,11:30,12:30,Technical paper session,IAS-3 · AI & Automation for Agriculture,Dalí,,Industry Applications,,5
+c26-084,2026-11-13,11:30,12:30,Technical paper session,EDU-2 · Engineering Education & AI in Learning,Garavito,,Education,,5
+c26-085,2026-11-13,11:30,12:00,Industry talk,"El futuro del cable: Innovaciones que impulsan eficiencia, sostenibilidad y desempeño.","Salón Expositores, 2do nivel (Entrada Libre)",,PRYSMIAN,,0
+c26-086,2026-11-13,12:00,12:30,Industry talk,"Ciberelectricidad 4.0: del bit al Megawatt, Ciberseguridad OT para el sector eléctrico.","Salón Expositores, 2do nivel (Entrada Libre)",,MABREX,,0
+c26-087,2026-11-13,12:30,14:00,Lunch,ALMUERZO,All rooms,,,,0
+c26-088,2026-11-13,14:00,15:00,Invited talk,Radio Sensing for Vehicle Collision Prevention,Asturias,Carlos Gutiérrez,Distinguished Lecturer VTS,,0
+c26-089,2026-11-13,14:00,16:00,Forum,"Foro: Eficiencia Energética 360°, tecnología, gestión y sostenibilidad",Auditorium,,GEE · PES IEEE,,0
+c26-090,2026-11-13,14:00,16:00,Workshop / tutorial,Taller Women in Engineering (WIE),Cafetal 2,Karen Tobar,,,0
+c26-091,2026-11-13,14:00,15:00,Invited talk,Riesgos eléctricos en plantas FV: del commissioning al O&M,Dalí,Ing. Carlos Boj,,,0
+c26-092,2026-11-13,14:00,16:00,Invited talk,Guatemala: política energética y oportunidades de inversión en el sector eléctrico,De la Vega,,GET.pro y MEM,,0
+c26-093,2026-11-13,14:00,16:00,Workshop / tutorial,Workshop AI y Datos,Garavito,Jaime García,IEEE Computer Society,Jaime's session,0
+c26-094,2026-11-13,14:00,15:00,Industry talk,Postes en PRFV y estructuras metálica: Criterios técnicos y económicos para una infraestructura eficiente y confiable.,"Salón Expositores, 2do nivel (Entrada Libre)",,PROLECSA,,0
+c26-095,2026-11-13,15:00,16:00,Invited talk,Big Data: de los datos al conocimiento,Asturias,Dr. Roger Clotet Martínez,Universidad Internacional de Valencia,,0
+c26-096,2026-11-13,15:00,15:30,Industry talk,"Uso de FR3 Aceite dielectrico en transformdores para energías renovables, centros de datos y baterias","Salón Expositores, 2do nivel (Entrada Libre)",,CARGILL,,0
+c26-097,2026-11-13,15:30,16:00,Industry talk,Iluminación como Ecosistema IoT: Integración de Controles y BMS,"Salón Expositores, 2do nivel (Entrada Libre)",,Asociación Guatemalteca de Iluminación,,0
+c26-098,2026-11-13,16:00,16:30,Break,COFFEE BREAK,All rooms,,,,0
+c26-099,2026-11-13,16:30,17:00,Industry talk,Clausura,"Salón Expositores, 2do nivel (Entrada Libre)",,,,0
+c26-100,2026-11-13,16:30,18:00,Social event,Clausura de la feria,Salón Real,,,,0
+c26-101,2026-11-13,19:00,23:30,Social event,Cena de Clausura,Not stated,,,,0

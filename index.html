@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <title>CONCAPAN XLIV 2026 program</title>
+  <meta name="description" content="Mobile-friendly companion program for CONCAPAN XLIV, the 2026 IEEE 44th Central America and Panama Convention, 10–13 November 2026 at Hotel Westin Camino Real, Ciudad de Guatemala.">
+  <meta name="theme-color" content="#001833">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23001833'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='28' font-family='system-ui' fill='%23fff'%3E44%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#timeline">Skip to program</a>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="kicker">IEEE · Central America and Panama</p>
+      <h1>CONCAPAN XLIV 2026 program</h1>
+      <p class="lede">44th IEEE Central America and Panama Convention</p>
+      <p class="meta-line">10–13 November 2026 · Hotel Westin Camino Real, Ciudad de Guatemala</p>
+      <p class="meta-line">Times in America/Guatemala (UTC-6) · <span id="session-count">101 sessions</span></p>
+      <div class="header-actions">
+        <a class="btn btn-ghost" href="https://attend.ieee.org/concapan-2026/en/program/" rel="noopener noreferrer">Official program</a>
+        <a class="btn btn-ghost" id="ics-link" href="CONCAPAN-2026-program.ics">Download calendar (.ics)</a>
+      </div>
+    </div>
+  </header>
+
+  <aside class="featured" id="featured" aria-labelledby="featured-heading">
+    <div id="featured-body"></div>
+  </aside>
+
+  <div class="toolbar">
+    <div class="wrap">
+      <div class="days" id="days" role="tablist" aria-label="Conference days"></div>
+      <div class="filters">
+        <label class="visually-hidden" for="search" style="position:absolute;left:-9999px">Search the program</label>
+        <input class="search" id="search" type="search" placeholder="Search sessions, papers, or speakers" autocomplete="off">
+        <label class="visually-hidden" for="filter-type" style="position:absolute;left:-9999px">Filter by type</label>
+        <select class="select" id="filter-type"></select>
+        <label class="visually-hidden" for="filter-room" style="position:absolute;left:-9999px">Filter by room</label>
+        <select class="select" id="filter-room"></select>
+      </div>
+    </div>
+  </div>
+
+  <p class="status" id="status" aria-live="polite"></p>
+  <main id="timeline" class="timeline" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <p>Unofficial companion schedule. Session titles are shown as published. This site is not the official CONCAPAN or IEEE program page.</p>
+    <p>Source: <a href="https://attend.ieee.org/concapan-2026/en/program/" rel="noopener noreferrer">attend.ieee.org/concapan-2026</a>. Official PDFs:
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/CONCAPAN_XLIV_Technical_Program_1.pdf" rel="noopener noreferrer">technical program</a>,
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/charlas-comerciales.pdf" rel="noopener noreferrer">industry talks</a>,
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia1.pdf" rel="noopener noreferrer">Tue</a>,
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia2.pdf" rel="noopener noreferrer">Wed</a>,
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia3.pdf" rel="noopener noreferrer">Thu</a>,
+      <a href="https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia4.pdf" rel="noopener noreferrer">Fri</a>.</p>
+  </footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

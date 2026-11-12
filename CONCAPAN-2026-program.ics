@@ -1,0 +1,1647 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grok Bot//CONCAPAN 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CONCAPAN 2026
+X-WR-TIMEZONE:America/Guatemala
+BEGIN:VTIMEZONE
+TZID:America/Guatemala
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c26-001@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261110T080000
+DTEND;TZID=America/Guatemala:20261110T193000
+SUMMARY:Bodega / Inscripciones · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Registration\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Registration
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-002@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261110T080000
+DTEND;TZID=America/Guatemala:20261110T193000
+SUMMARY:Montaje de la feria · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Logistics\nSource: https://attend.ieee.org/concapan-2026/en/pro
+ gram/
+CATEGORIES:Logistics
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-003@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261110T090000
+DTEND;TZID=America/Guatemala:20261110T123000
+SUMMARY:Taller de fabricación de chips Tiny Tapeout · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nOpen Silicon · IEEE · Galileo\nSource: h
+ ttps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-004@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261110T123000
+DTEND;TZID=America/Guatemala:20261110T140000
+SUMMARY:ALMUERZO · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Lunch\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-005@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261110T140000
+DTEND;TZID=America/Guatemala:20261110T170000
+SUMMARY:Taller de fabricación de chips Tiny Tapeout · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nOpen Silicon · IEEE · Galileo\nSource: h
+ ttps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-006@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Taller de fabricación de chips Tiny Tapeout · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nOpen Silicon · IEEE · Galileo\nSource: h
+ ttps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-007@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Taller de semiconductores · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nTryEngineering\nSource: https://attend.iee
+ e.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-008@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Tutorial: Subestaciones eléctricas\, una visión holística · Dal
+ í
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Gustavo Salloum\nSource: https:/
+ /attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-009@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Bodega / Inscripciones · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Registration\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Registration
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-010@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Tutorial: Calidad de la energía\, problemas\, causas y soluciones 
+ · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Gustavo Ramos\nSource: https://a
+ ttend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-011@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T080000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Montaje de la feria · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Logistics\nSource: https://attend.ieee.org/concapan-2026/en/pro
+ gram/
+CATEGORIES:Logistics
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-012@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T093000
+DTEND;TZID=America/Guatemala:20261111T123000
+SUMMARY:Mini STEM-Summit · Cafetal 1
+LOCATION:Cafetal 1\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nIEEE\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-013@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T123000
+DTEND;TZID=America/Guatemala:20261111T140000
+SUMMARY:ALMUERZO
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Lunch\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-014@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T140000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Taller de fabricación de chips Tiny Tapeout · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nOpen Silicon · IEEE · Galileo\nSource: h
+ ttps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-015@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T140000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Chip Forum: El futuro de los semiconductores comienza en nuestra re
+ gión · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Forum\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-016@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T140000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Tutorial: Subestaciones eléctricas\, una visión holística · Dal
+ í
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Gustavo Salloum\nSource: https:/
+ /attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-017@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T140000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Bodega / Inscripciones · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Registration\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Registration
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-018@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T140000
+DTEND;TZID=America/Guatemala:20261111T163000
+SUMMARY:Tutorial: Calidad de la energía\, problemas\, causas y soluciones 
+ · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Gustavo Ramos\nSource: https://a
+ ttend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-019@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T163000
+DTEND;TZID=America/Guatemala:20261111T190000
+SUMMARY:Inauguración de la feria · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Social event\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Social event
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-020@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261111T190000
+DTEND;TZID=America/Guatemala:20261111T233000
+SUMMARY:Cena de Inauguración
+LOCATION:Not stated\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Social event\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Social event
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-021@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T090000
+DTEND;TZID=America/Guatemala:20261112T100000
+SUMMARY:Conferencia Magistral Inaugural: El gato de Schrödinger amenaza la
+  confianza digital · Auditorium – Garavito (shared)
+LOCATION:Auditorium – Garavito (shared)\, Hotel Westin Camino Real\, Guat
+ emala
+DESCRIPTION:Keynote\nSpeakers: PhD Julio González Sáenz y Eric Sosa\nInvi
+ ted-presentations page lists "Dr. Julio González-Sáenz & Erick Sosa" (Vo
+ dafone UK · GBM · InnoQlar Group).\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-022@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T090000
+DTEND;TZID=America/Guatemala:20261112T100000
+SUMMARY:Taller Smart Village · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nIEEE\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-023@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T090000
+DTEND;TZID=America/Guatemala:20261112T100000
+SUMMARY:Inovando en conexiones eléctricas y red compacta · Salón Exposit
+ ores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nIMPELSA\nSource: https://attend.ieee.org/concapa
+ n-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-024@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T090000
+DTEND;TZID=America/Guatemala:20261112T180000
+SUMMARY:Feria comercial · Exposición de stands · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Trade fair\nRuns all day in the grid\; exact hours not printed.
+ \nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Trade fair
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-025@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T100000
+DTEND;TZID=America/Guatemala:20261112T103000
+SUMMARY:COFFEE BREAK
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Break\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-026@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T113000
+SUMMARY:PES-1 · Solar PV & Distributed Generation · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nPower & Energy\n10:30 Techno-Economic 
+ Assessment of a Grid-Connected Residential Photovoltaic System Under a Sub
+ sidized Electricity Tariff: A Case Study in Southeastern Mexico — José 
+ Toledo Wong (Tecnológico Nacional de México / Centro Nacional de Investi
+ gación y Desarrollo Técnologico\, Mexico)\; Susana Estefany De León- Al
+ daco (Centro Nacional de Investigación y Desarrollo Tecnológico\, Mexico
+ )\; Jesús Aguayo Alquicira (Cenidet\, Mexico)\; Alejandro Daniel Perez Uc
+ \, David Lugo Chávez and Ignacio Hernández Reyes (TecNM de Centla\, Mexi
+ co)\n10:42 Performance Improvement of Monofacial Photovoltaic Modules Thro
+ ugh Passive Microfluidic Cooling: Experimental Results and Analysis — Lu
+ is Diego Murillo-Soto and Leonardo Cardinale-Villalobos (Instituto Tecnol
+ ógico de Costa Rica\, Costa Rica)\; Christopher Vega- Sanchez (Institulo 
+ Tecnológico de Costa Rica\, Costa Rica)\; Luis G. Leon-Vega (Instituto Te
+ cnológico de Costa Rica\, Costa Rica)\n10:54 Optimal Location of Distribu
+ ted Generation in Microgrids Using Nonlinear Optimization — Juan Carlos 
+ Lata (Universidad Politécnica Salesiana\, Ecuador)\; Javier Velasco and M
+ iguel Jerez (UPS\, Ecuador)\; Marco Tostado (UJAEN\, Spain)\n11:06 Real-Ti
+ me Hosting Capacity Screening for Smart Substation Automation: A Sensitivi
+ ty-Guided Two-Stage Approach — Diego Miranda (STEAM Robotics Academy\, E
+ l Salvador)\; Bryan Vásquez-Pineda (IEEE\, USA & STEAM Robotics Academy\,
+  El Salvador)\; Asheyn Rivera Fajardo (Universidad Nacional Autónoma de H
+ onduras\, Honduras)\; Jonathan Muñoz Tabora (National Autonomous Universi
+ ty of Honduras\, Honduras)\n11:18 Impact of Distributed Generation on the 
+ Distribution System Power Factor: A Case Study in Ecuador — Mishelle Aya
+ la (Empresa Eléctrica Quito\, Ecuador)\; Luis A. Paredes and Marcelo G. M
+ olina (Universidad Nacional de San Juan - CONICET & Instituto de Energía 
+ Eléctrica\, Argentina)\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-027@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:Foro: Nueva generación de energía renovable\, inversión\, desarr
+ ollo y estabilidad · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Forum\nAGER · PES\nSource: https://attend.ieee.org/concapan-20
+ 26/en/program/
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-028@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:Taller TryEngineering · Cafetal 1
+LOCATION:Cafetal 1\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSource: https://attend.ieee.org/concapan-2
+ 026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-029@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:Taller Smart Village · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nIEEE\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-030@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T113000
+SUMMARY:CS-1 · ML Methods\, Modelling & Simulation · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nComputer\n10:30 Exploring Hybrid Quant
+ um-Classical Machine Learning for Energy-Efficient Telecom Networks: A Res
+ earch Framework for 5G and Beyond — Julio Gonzalez-Saenz (InnoQlar Group
+  UK\, United Kingdom (Great Britain))\n10:42 Measuring Distributional Degr
+ adation in GPU Spatial Indices for Nearest-Neighbor Search — Josué More
+ ra Salas and Christian Asch (Centro Nacional de Alta Tecnología\, Costa R
+ ica)\n10:54 Sparse Dictionary Learning for Surrogate Modeling Under Severe
+  Data Scarcity — Cindy Calderón-Arce (Institute of Technology\, Costa R
+ ica)\; Pablo Alvarado-Moya (Costa Rica Institute of Technology\, Costa Ric
+ a)\; Pablo Soto-Quiros (The Costa Rica Institute of Technology\, Costa Ric
+ a)\n11:06 Fast Retrieval of Trace-Gas Slant Column Densities from MAX-DOAS
+  Spectra via a Physics-Informed Autoencoder — Nelson Xavier Mejía Sánc
+ hez (Valencian International University\, Spain)\; Levi Torres\, Nelson Ci
+ sneros\, Jorge Cuadra and Gerardo Benítez (Universidad de El Salvador\, E
+ l Salvador)\n11:18 Environmental Variable Simulator for Validating the SIM
+ A Early Warning System Through Hardware-in-the-Loop Testing — Denis Altu
+ ve\, Karens Medrano\, Kelman Belloso\, Emily Mejía\, Némesis Valencia an
+ d William Ramos (Universidad Don Bosco\, El Salvador)\nSource: https://att
+ end.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-031@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T113000
+SUMMARY:Factor Graphs FTW: From SLAM to Control to Robot Dynamics · De la 
+ Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Prof. Frank Dellaert\nRAS\nSource: http
+ s://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-032@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T113000
+SUMMARY:IAS-1 · Industrial AI & Industry 4.0 · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nIndustry Applications\n10:30 Multi-Hor
+ izon Forecasting with Explainable Transformers: A Dual Case Study on Power
+  Quality Monitoring and Outage Prediction for Electric Distribution Networ
+ ks — Jorge Alberto López Cano\, Julio Alberto Guzmán Martínez and Jor
+ ge Bryan Díaz Lemus (University of El Salvador\, El Salvador)\; Fernando 
+ Arevalo (Universidad de El Salvador\, El Salvador)\; Omar Otoniel Flores-C
+ ortez (Universidad Tecnologica de El Salvador\, El Salvador)\; Carlos Osm
+ ín Pocasangre Jiménez (Universidad de El Salvador\, El Salvador)\n10:42 
+ Augmenting\, Not Automating: Explainable AI for Human-Centered Incident Tr
+ iage in Electric Power Distribution — Martín A. Hunziker and Carla M Ro
+ setti (Calden Consultoría\, Argentina)\; Laura Alonso Alemany (Universida
+ d Nacional de Córdoba\, Argentina)\n10:54 Edge AI Framework for Remaining
+  Useful Life Estimation in Industrial Pressure Control Valves — Juan J G
+ uevara (ITCA FEPADE\, El Salvador)\n11:06 Digital Transformation Maturity 
+ in El Salvador's Manufacturing: An Empirical Assessment of Industry 4.0 Re
+ adiness — Manuel Cardona and Erika Castillo (SARA Robotics\, El Salvador
+ )\n11:18 A Data-Centric Analysis of Training Image Degradation for Edge-Ba
+ sed PCB Defect Detection — Marcelo Tsuguio Okano (Paulista University - 
+ UNIP\, Brazil)\; William A. P. Lopes (Paulista University UNIP\, Brazil)\;
+  Sergio Miele Ruggero\, Chan Kong Fong\, Marcio J. P. Antonio and Victoria
+  F. Dionizio (Paulista University (UNIP)\, Brazil)\nSource: https://attend
+ .ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-033@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T103000
+DTEND;TZID=America/Guatemala:20261112T110000
+SUMMARY:Almacenamiento de energia - BESS · Salón Expositores\, 2do nivel 
+ (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nANXOR\nSource: https://attend.ieee.org/concapan-
+ 2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-034@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T110000
+DTEND;TZID=America/Guatemala:20261112T113000
+SUMMARY:La Energía que nos hace Avanzar. · Salón Expositores\, 2do nivel
+  (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nENERWIRE\nSource: https://attend.ieee.org/concap
+ an-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-035@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T113000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:PES-2 · Energy Policy\, Buildings & Community Energy · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nPower & Energy\n11:30 Grid-Connected M
+ icrogrids in Latin America: Regulatory and Economic Perspectives — Gisel
+ le Francine Brito Muniz and Marlon Max Huamani Bellido (University of Camp
+ inas\, Brazil)\n11:42 A Bayesian Difference-in-Differences Method for Eval
+ uating the Carbon Tax in Chile — Reinier Fernández-López (Universidad 
+ Arturo Prat\, Chile)\; Antonio Pérez-Torres (Universidad Politécnica Sal
+ esiana\, Ecuador)\; Jean Navarrete-Campos (Universidad de Concepción\, Ch
+ ile)\n11:54 Development of a Hybrid Water Harvesting System for a Vulnerab
+ le Insular Community in Costa Rica — Anibal Ruiz-Barquero (Instituto Tec
+ nologico de Costa Rica\, Costa Rica)\; Renato Rímolo Donadio (Tecnológic
+ o de Costa Rica\, Costa Rica)\; Sergio Arriola-Valverde (Tecnologico de Co
+ sta Rica & ITCR\, Costa Rica)\; Karolina Villagra-Mendoza and Federico Mas
+ ís-Meléndez (Instituto Tecnológico de Costa Rica & ITCR\, Costa Rica)\;
+  Grethel Ulate-Garita (Universidad Nacional de Costa Rica & UNA\, Costa Ri
+ ca)\; Renato Rimolo-Donadio (Instituto Tecnológico de Costa Rica\, Costa 
+ Rica)\n12:06 Solar Domestic Hot Water in Tegucigalpa\, Honduras: Specific 
+ Performance of a Residential Case Compared to Estimated Nationwide Potenti
+ al — Ricardo Enrico Maldonado Peña (Universidad Tecnológica Centroamer
+ icana (UNITEC)\, Honduras)\; Mario R. Rubio Henriquez (Universidad Naciona
+ l Autonoma de Honduras (UNAH)\, Honduras)\n12:18 Assessment of Overcooling
+ \, Thermal Comfort\, and Energy Demand in an Air-Conditioned University Cl
+ assroom Under Hot-Humid Tropical Conditions — Samuel Bonilla Gracia\, Mi
+ guel Doria Oviedo\, Alexis Ramirez Barbera and Carlos Lazaro Menco (Univer
+ sidad del Sinu\, Colombia)\nSource: https://attend.ieee.org/concapan-2026/
+ en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-036@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T113000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:RAS-1 · Manipulators\, Perception & Robot Vision · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nRobotics & Automation\n11:30 Neural Ne
+ twork Trajectory Approximation and Genetic Algorithm Workpiece Pose Optimi
+ zation for Robotic Welding — César Armando Morales Molina\, Ernesto Ant
+ onio Morales Rodriguez\, Abner Alberto Godínez Hernández\, José Gerardo
+  Alvarado Polanco\, Emerson Alexis Alvarez Corona and Gerardo Enrique Mena
+  Recinos (Universidad de Sonsonate\, El Salvador)\n11:42 Implementation an
+ d Validation of a Wireless HMI Interface for the Control of a 5-DOF Roboti
+ c Arm — Ernesto Antonio Morales Rodriguez\, César Armando Morales Molin
+ a\, Gerardo Enrique Mena Recinos\, Abner Alberto Godínez Hernández\, Eme
+ rson Alexis Alvarez Corona and José Gerardo Alvarado Polanco (Universidad
+  de Sonsonate\, El Salvador)\n11:54 Quaternion-Based Multibody-Constraint 
+ Forward Kinematics of the Agile Eye 3-RRR Spherical Parallel Robot — Man
+ uel Cardona (SARA Robotics\, El Salvador)\; Fernando Serrano (Universidad 
+ Nacional Autónoma de Honduras\, Honduras)\; Bryan Vásquez-Pineda (IEEE\,
+  USA & STEAM Robotics Academy\, El Salvador)\; José Luis Ordóñez Avila 
+ (Universidad Evangélica de El Salvador\, Honduras)\n12:06 Experimental Ev
+ aluation of a Stereo Camera and mmWave Radar Perception Setup for off-Road
+  Machinery Scenarios — Juan Francisco D. De La Fuente Bustos (Tecnologic
+ o de Monterrey\, Mexico)\; Alejandro Vidal-Rosas (John Deere\, USA)\; Serg
+ io Camacho-Leon (Tecnológico de Monterrey\, Mexico)\n12:18 An Embedded De
+ ep Learning-Based License Plate Recognition System for Vehicles Using YOLO
+ v7 — Andrés Roberto Chávez (Universidad Tecnológica Centroamericana\,
+  (UNITEC)\, Honduras)\; María Celeste Parada-Acosta (Universidad Tecnoló
+ gica Centroamericana\, Honduras)\; Héctor Villatoro (Universidad Tecnoló
+ gica Centroamericana\, (UNITEC)\, Honduras)\nSource: https://attend.ieee.o
+ rg/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-037@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T113000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:Energía sostenible y conectividad para la salud y la educación ·
+  De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Mónica Huerta\nEMBS-IEEE\nSource: http
+ s://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-038@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T113000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:COM-1 · IoT Sensing & Environmental Monitoring · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nCommunications\nChair: Cesar Azurdia (
+ Universidad de Chile\, Chile)\n11:30 Technological Foundations for Future 
+ Monitoring of Water Contamination in Lake Atitlán — Paola Ayala\, Chris
+ tian Carazo\, Angela Quezada\, Luis Alberto Rivera and Miguel Zea (Univers
+ idad del Valle de Guatemala\, Guatemala)\n11:42 LSTM-Based Short-Term CO2 
+ Forecasting for Urban Environmental Monitoring: A Case Study in the Histor
+ ic Downtown of San Salvador — Gerado Jovel and Fernando Arevalo (Univers
+ idad de El Salvador\, El Salvador)\; Omar Otoniel Flores-Cortez (Universid
+ ad Tecnologica de El Salvador\, El Salvador)\; Carlos Osmín Pocasangre Ji
+ ménez and Werner Meléndez-Valle (Universidad de El Salvador\, El Salvado
+ r)\n11:54 Early Detection of Coffee Leaf Rust in Susceptible Varieties Usi
+ ng a Portable Reflectance IoT Prototype — Samuel De la O (Universidad de
+  El Salvador\, El Salvador)\; Nelson Xavier Mejía Sánchez (Valencian Int
+ ernational University\, Spain)\; Gerardo Benítez and Mario Saravia (Unive
+ rsidad de El Salvador\, El Salvador)\; Carlos Rudamas (Unievrsidad de El S
+ alvador\, El Salvador)\n12:06 Wearable Embedded System for Automatic Socia
+ l Actions Classification Using Inertial Sensing and Machine Learning — I
+ gnacio Grané-Rojas (Costa Rican Institute of Technology\, Costa Rica)\; K
+ imberly Fiorella Mena Bravo (Costa Rican Institute of Technology)\; Jefers
+ on González-Gómez and Laura Cabrera-Quirós (Costa Rican Institute of Te
+ chnology\, Costa Rica)\n12:18 Design and Field Deployment of a Low-Cost Mu
+ lti-Sensor DAQ for Electrical\, Thermal and Environmental Monitoring of Ph
+ otovoltaic Modules — Maickol Fernández-Obando (Universidad Estatal a Di
+ stancia\, Costa Rica)\; Luis G. Leon-Vega and Leonardo Cardinale- Villalob
+ os (Instituto Tecnológico de Costa Rica\, Costa Rica)\; Christopher Vega-
+ Sanchez (Institulo Tecnológico de Costa Rica\, Costa Rica)\; Luis Diego M
+ urillo-Soto (Instituto Tecnológico de Costa Rica\, Costa Rica)\nSource: h
+ ttps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-039@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T113000
+DTEND;TZID=America/Guatemala:20261112T120000
+SUMMARY:Reconectadores · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nELECTROVAL\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-040@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T120000
+DTEND;TZID=America/Guatemala:20261112T123000
+SUMMARY:Soluciones de mediación Inteligente · Salón Expositores\, 2do ni
+ vel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nCELASA\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-041@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T123000
+DTEND;TZID=America/Guatemala:20261112T140000
+SUMMARY:ALMUERZO
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Lunch\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-042@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T150000
+SUMMARY:COM-2 · Wireless & Optical Communications · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nCommunications\nChair: Cesar Azurdia (
+ Universidad de Chile\, Chile)\n14:00 Terrain-Dependent Accuracy of LoRaWAN
+  Coverage Prediction: Simulation and Field Validation in Two Honduran Citi
+ es — Nelson Reyes (Universidad Nacional Autónoma de Honduras\, Honduras
+ )\n14:12 Drive Test Based Calibration of the Standard Propagation Model fo
+ r 5G NR n78 Network Planning in Urban Managua\, Nicaragua — Cedrick Elks
+ nherr Dalla Torre Parrales and Fernando Antonio Flores Guido (Universidad 
+ Nacional de Ingeniería\, Nicaragua)\; Leonel Mendieta (Universidad Autón
+ oma de Managua\, Nicaragua)\n14:24 Design and Experimental Validation of a
+  Low-Cost OFDM-Based VLC Transmitter — Benjamín Santelices Melis and Ce
+ sar Azurdia (Universidad de Chile\, Chile)\; Pablo Palacios Játiva (Unive
+ rsidad Diego Portales\, Chile)\n14:36 Theoretical and Numerical Framework 
+ for Self-Injection Locking of a DFB Laser to an All-Fiber Ring Resonator 
+ — Napoleon Gutierrez and Oscar Wenceslao Rivas (Universidad Don Bosco\, 
+ El Salvador)\n14:48 Urban LoRaWAN Coverage Optimization in Smart Cities: A
+  Systematic Review of the Shift from Static Heuristics to AI-Driven Adapta
+ tion — Santiago Alejandro Acurio Maldonado (Pontificia Universidad Cató
+ lica del Ecuador Sede Ambato\, Ecuador)\; Jairo Sacoto (Universidad Polite
+ cnica Salesiana\, Ecuador)\; Monica Karel Huerta (Simon Bolivar University
+ \, Ecuador)\; Esteban Fernando Ordóñez-Morales (Salesian Polytechnic Uni
+ versity\, Ecuador)\; Antonio Pérez-Torres (Universidad Politécnica Sales
+ iana\, Ecuador)\; Edison F Meneses-Torres (Pontificia Universidad Católic
+ a del Ecuador Sede Ambato\, Ecuador)\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-043@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:Foro: De la planificación a la energización\, cómo acelerar la t
+ ransmisión en Guatemala · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Forum\nAGTE · IEEE\nSource: https://attend.ieee.org/concapan-2
+ 026/en/program/
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-044@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:Taller EPICS · Cafetal 1
+LOCATION:Cafetal 1\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSource: https://attend.ieee.org/concapan-2
+ 026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-045@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:Panel WIE / Young Professionals · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Panel\nIEEE\nSource: https://attend.ieee.org/concapan-2026/en/p
+ rogram/
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-046@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T150000
+SUMMARY:BIO-1 · Assistive & Human-Centered Technologies · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nBiomedical Engineering\n14:00 A Cascad
+ ed Embedded Architecture for Real-Time Pronunciation Feedback: Design\, Qu
+ antization\, and Multi-Criteria Evaluation on a Low-Cost NPU for Education
+ al and Clinical Speech Screening in Latin Amer — Edward Wilder Caro Anzo
+ la and Miguel Ángel Mendoza Moreno (Universidad Pedagógica y Tecnológic
+ a de Colombia\, Colombia)\; Wilson J. Sarmiento (Universidad Militar Nueva
+  Granada\, Colombia)\n14:12 Colombian Sign Language Classification with La
+ ndmark Preprocessing Techniques for Recurrent Neural Networks — Juan E. 
+ Mora-Zarate\, Diego E. Escalante-García and Claudia L. Garzón-Castro (Un
+ iversidad de La Sabana\, Colombia)\; Carlos Bran (Universidad Don Bosco\, 
+ El Salvador)\n14:24 Mechanical and Ergonomic Evaluation of an Adapted Vehi
+ cle Safety Harness for Children with Autism — Gilberto A. Carrillo\, Eme
+ ly V. Landaverde and Sergio M. García (Universidad Don Bosco\, El Salvado
+ r)\n14:36 Iterative Usability Validation of a Child-Rearing Mobile App: A 
+ User-Centered Design and Action Research Case Study — Karens Medrano\, E
+ velyn Hernández and Andrea Urbano (Universidad Don Bosco\, El Salvador)\n
+ Source: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-047@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:Electrical Safety Workshop Track · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Ing. Marcelo Valdez · Ing. Gust
+ avo Salloum · Dr. Gustavo Ramos\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-048@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T150000
+SUMMARY:EDU-1 · Educational Technology & STEM · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nEducation\n14:00 Digital Transformatio
+ n of Academic Support Through No-Code Virtual Assistants: Toward a Methodo
+ logical Framework for Their Implementation — Bayron Cordero-Moran and Om
+ ar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador\, El Salv
+ ador)\n14:12 Integrating Interactive Physics Simulators into Moodle: An St
+ rategy for Asynchronous Virtual Practices in Higher Education — Bayron C
+ ordero-Moran\, Omar Otoniel Flores-Cortez\, Juan Santos-Escobar and Mauric
+ io Chinchilla-Burgos (Universidad Tecnologica de El Salvador\, El Salvador
+ )\n14:24 A Modular Open-Source Robotics Toolkit with Integrated AI Modules
+  to Enhance Computational Thinking in K-12 STEM Education — Angela Pined
+ a (Universidad de El Salvador\, El Salvador)\; Bryan Vásquez-Pineda (IEEE
+ \, USA & STEAM Robotics Academy\, El Salvador)\; Manuel Cardona (SARA Robo
+ tics\, El Salvador)\; Carlos Osmín Pocasangre Jiménez (Universidad de El
+  Salvador\, El Salvador)\n14:36 Second Derivative Analysis of Probabilisti
+ c Uncertainty Ranges in Second Order Monte Carlo Simulation — Juan Sitav
+ i (Universidad de San Carlos de Guatemala\, Guatemala)\nSource: https://at
+ tend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-049@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T140000
+DTEND;TZID=America/Guatemala:20261112T143000
+SUMMARY:CHINT: Electrical seminar · Salón Expositores\, 2do nivel (Entrad
+ a Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nCHINT\nSource: https://attend.ieee.org/concapan-
+ 2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-050@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T143000
+DTEND;TZID=America/Guatemala:20261112T150000
+SUMMARY:Equipos de seguridad · Salón Expositores\, 2do nivel (Entrada Lib
+ re)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nKET PLUS\nSource: https://attend.ieee.org/concap
+ an-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-051@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T150000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:COM-3 · Networks\, Security & Edge Computing · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nCommunications\nChair: Oscar A. Gonzal
+ ez Lira (Universidad Galileo\, Guatemala)\n15:00 Benchmark of Transformer 
+ Models for Open-World Network Intrusion Detection Using RAG — Oscar A. G
+ onzalez Lira (Universidad Galileo\, Guatemala)\; Alberto Marroquin (Galile
+ o University\, Guatemala)\; Marco A. To De Leon (Universidad Galileo\, Gua
+ temala)\n15:12 Adaptive SLA-Based Traffic Steering for Low-Cost Residentia
+ l Multi-Homing Without BGP — Carlos Bran (Universidad Don Bosco\, El Sal
+ vador)\; Claudia L. Garzón-Castro (Universidad de La Sabana\, Colombia)\;
+  José Varela- Aldás (Universidad Indoamérica\, Ecuador)\n15:24 Economic
+  Modeling of Competitive Fog Service Provision Under Latency and Congestio
+ n Constraints — Jairo Sacoto (Universidad Politecnica Salesiana\, Ecuado
+ r)\; Luis Tello-Oquendo (Universidad Nacional de Chimborazo\, Ecuador)\; A
+ ntonio Pérez-Torres (Universidad Politécnica Salesiana\, Ecuador)\; Este
+ ban Fernando Ordóñez-Morales (Salesian Polytechnic University\, Ecuador)
+ \; Monica Huerta (Universidad Estatal de Milagro\, Ecuador)\; Edison Moren
+ o-Cardenas (EM Research & Tech\, Peru)\n15:36 AuraNodeEngine: A Hybrid Edg
+ e-Cloud Execution Engine for Dynamic Rule Processing on Resource-Constrain
+ ed IoT Devices — Denis Altuve\, Daniel Castellanos\, Carlos Bran\, Karen
+ s Medrano\, Kelman Belloso and Angel Mangandi (Universidad Don Bosco\, El 
+ Salvador)\n15:48 Resilient Edge Telemetry with RAM-Based Buffering and Bou
+ nded Backlog Synchronization Under Network Disconnections — José Recino
+ s (Universidad de San Carlos de Guatemala\, Guatemala)\nSource: https://at
+ tend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-052@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T150000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:BIO-2 · Biomedical Signals\, Data & Health Informatics · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nBiomedical Engineering\n15:00 Explaina
+ ble Artificial Intelligence in ECG-Based Analysis for Coronary Microvascul
+ ar Dysfunction: A Focused Literature Review — Mario Alberto Castillo Ros
+ ete and Miguel Morales Sandoval (National Institute of Astrophisics\, Opti
+ cs and Electronics\, Mexico)\; Bartolomé Reyes Ramírez (National Institu
+ te of Astrophisics\, Optics and Electrónics\, Mexico)\; Ignacio Enrique Z
+ aldivar-Huerta (National Institut of Astrophisics\, Optics and Eelectronic
+ s\, Mexico)\n15:12 Analyzing Active and Semi-Supervised Learning Across Re
+ presentations for Multilingual Biomedical Text Classification — Christop
+ her Flores (Universidad del Bío-Bío\, Chile)\n15:24 A GIS-Based Spatial 
+ Predictive Tool for Assessing Cochliomyia Hominivorax Myiasis Risk Under a
+  One Health Framework — María José Gálvez\, Alison Rodríguez and Rey
+ na Valle (Universidad Tecnológica Centroamericana\, Honduras)\n15:36 Expe
+ rimental Validation of a Embedded Retrofit Architecture for Legacy Radiati
+ on Counting Instruments — Vladimir Polanco-Zepeda (Universida de El Salv
+ ador\, El Salvador)\; Omar Otoniel Flores-Cortez (Universidad Tecnologica 
+ de El Salvador\, El Salvador)\; Carlos Osmín Pocasangre Jiménez and Fern
+ ando Arevalo (Universidad de El Salvador\, El Salvador)\n15:48 Alternative
+  Human Interfaces for Robotic Control: Gesture\, Speech\, and Biomedical S
+ ignal Modalities — Ana Marcela Padilla Micheo\, Oscar Fernando López\, 
+ Luis Alberto Rivera and Miguel Zea (Universidad del Valle de Guatemala\, G
+ uatemala)\nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-053@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T150000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:CS-2 · Generative AI & Software Engineering · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nComputer\n15:00 Human-AI Collaboration
+  Model for Software Engineering Teams: A Conceptual Framework for Integrat
+ ing Generative Artificial Intelligence into Hybrid Teams — José Humbert
+ o Vásquez Pereyra (Universidad Privada Antenor Orrego\, Peru)\n15:12 A Re
+ trieval-Augmented Generation Framework for Change Impact Analysis in a Uni
+ versity Information System: A Pilot Case Study — Carlos Alfaro\, Cesar E
+ spinoza and Joyce Posada (Don Bosco University\, El Salvador)\n15:24 TOON 
+ as a Replacement for JSON in Artificial Intelligence Projects for Optimize
+ d Token Usage — Joshua Villavicencio and Katherine Dayanna Diaz Zuniga (
+ Don Bosco University\, El Salvador)\n15:36 A Multi-Agent Generative AI Arc
+ hitecture Supported by a Serverless Agrivoltaic Data Pipeline — Leonardo
+  Cardinale-Villalobos\, Abel Méndez-Porras and Hugo Sánchez (Instituto T
+ ecnológico de Costa Rica\, Costa Rica)\; Anibal Ruiz-Barquero (Instituto 
+ Tecnologico de Costa Rica\, Costa Rica)\; Wayner Montero-Carmona\, Fabián
+  Echeverría- Beirute and Luis Diego Murillo-Soto (Instituto Tecnológico 
+ de Costa Rica\, Costa Rica)\n15:48 Toward Intrinsically Explainable Reinfo
+ rcement Learning for Web GUI Testing via a Workflow-Aware Knowledge Graph 
+ Framework — Mildred Caballeros Morales and Javier Cubo (Universidad Inte
+ rnacional de la Rioja (UNIR)\, Spain)\; Nadia Gamez (Universidad Internaci
+ onal de la Rioja\, Spain)\nSource: https://attend.ieee.org/concapan-2026/e
+ n/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-054@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T150000
+DTEND;TZID=America/Guatemala:20261112T153000
+SUMMARY:"Cables para líneas de transmisión subterráneas" · Salón Expos
+ itores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nVIAKON\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-055@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T153000
+DTEND;TZID=America/Guatemala:20261112T160000
+SUMMARY:Transformación digital\, utilizando la IEC 61850 como guia · Sal
+ ón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nESINSA\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-056@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T160000
+DTEND;TZID=America/Guatemala:20261112T163000
+SUMMARY:COFFEE BREAK
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Break\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-057@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:PES-3 · Distribution & Transmission Networks · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nPower & Energy\n16:30 Fault Classifica
+ tion and Location in Distribution Networks Using MLP Neural Networks — R
+ afael Alberto Garcia Tinoco (Universidad Nacional Autónoma de Honduras\, 
+ Honduras)\; César Javier González and Mauricio E. Samper (National Unive
+ rsity of San Juan\, Argentina)\; Pabel Alberto Cardenas (National Universi
+ ty of San Juan\, Argentina & Electric Energy Regulatory Commission (CREE)\
+ , Honduras)\; Jonh Morales (National University of San Juan\, Argentina)\n
+ 16:42 Harmonic Assessment in the Electrical Distribution System of the San
+  Salvador Metropolitan Area — Carlos Osmín Pocasangre Jiménez (Univers
+ idad de El Salvador\, El Salvador)\; Omar Otoniel Flores-Cortez (Universid
+ ad Tecnologica de El Salvador\, El Salvador)\; Fernando Arevalo (Universid
+ ad de El Salvador\, El Salvador)\; Irvin Jose Escobar Sarmiento (Universid
+ ad Tecnologica de El Salvador\, El Salvador)\; Ronal Alexander Hernández 
+ González and Werner Meléndez- Valle (Universidad de El Salvador\, El Sal
+ vador)\; Jose Roberto Ramos Lopez (University of El Salvador\, El Salvador
+ )\n16:54 Relative Configuration of Distribution Infrastructure and Electri
+ city Losses in Ecuador — Antonio Pérez-Torres (Universidad Politécnica
+  Salesiana\, Ecuador)\; Henrry Moyano-Bojorque (University of Cuenca\, Ecu
+ ador)\; Jairo Sacoto (Universidad Politecnica Salesiana\, Ecuador)\; Esteb
+ an Fernando Ordóñez-Morales (Salesian Polytechnic University\, Ecuador)\
+ n17:06 Field-Calibrated Assessment of MV Cable Direct Burial Without Selec
+ t Backfill: Productivity\, CAPEX\, and Construction Carbon Emissions — F
+ elipe Eduardo Carvallo Novoa and Orlando Enrique Mena Martinez (SAESA\, Ch
+ ile)\; Johannes Eiberger (SpiderPlow Group of Companies\, Chile)\; Sebasti
+ ão Carvalho Filho and Igor Deliborio (Prysmian\, Brazil)\; Sara Alvarado 
+ (Prysmian\, Costa Rica)\n17:18 Synergistic Uprating of Overhead Lines: Adv
+ anced Conductor (ACCC) Combined with High-Emissivity Coating (E3X) for Hig
+ her Ampacity and Lower Losses — Sebastião Carvalho Filho and Marcondes 
+ Takeda (Prysmian\, Brazil)\; Sara Alvarado (Prysmian\, Costa Rica)\; Celso
+  Magalhães and Augusto Tortorella (CTC Global\, Brazil)\nSource: https://
+ attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-058@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:Datacenters y energía: ¿está Guatemala preparada? · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Ing. Sergio Fratti\nBICSI\nSource: http
+ s://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-059@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:CS-3 · Computing for Society: Security\, Privacy & Analytics · Ca
+ fetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nComputer\n16:30 Evaluation of Automate
+ d Vishing Attacks: Technical Effectiveness and Human Cognitive Vulnerabili
+ ty — Elisa Aldana (Universidad Centroamericana "José Simeón Canas"\, E
+ l Salvador)\; Melvin Alexander Díaz (Universidad Centroamericana José Si
+ meón Cañas\, El Salvador)\; David Alberto Díaz (Universidad Cemtroameri
+ cana José Simeón Cañas\, El Salvador)\; Jose Guidos (Universidad Centro
+ amaericana José Simeón Cañas\, El Salvador)\; Rene Guzmán and Ronaldo 
+ Canizales (Universidad Centroamericana José Simeón Cañas\, El Salvador)
+ \n16:42 Spatio-Temporal Framework for Automated News Monitoring: A Human R
+ ights Case Study — Ronaldo Canizales (Universidad Centroamericana José 
+ Simeón Cañas\, El Salvador)\; Mauricio Erazo (Universidad Loyola Andaluc
+ ía\, Spain)\n16:54 Predictive Model for First-Year University Student Dro
+ pout Using Classification Algorithms — Raul Anibal Arevalo Alvarado (Don
+  Bosco University\, El Salvador)\; Marcos De Jesus Hernandez Sorto and Kev
+ in Enrique Ponce Rodríguez (Don Bosco\, El Salvador)\n17:06 From Anecdote
+  to Evidence: A Geospatial and Behavioral Analytics Pipeline for Data-Driv
+ en Out-of-Home Advertising in a Latin American City — Pablo David Morale
+ s Martínez (Universidad del Istmo\, Guatemala)\n17:18 AAFA: Age-Aware Fac
+ e Anonymization for Privacy-Preserving Video Processing — Rubén Torres 
+ (STEAM Robotics Academy\, El Salvador)\; Bryan Vásquez-Pineda (IEEE\, USA
+  & STEAM Robotics Academy\, El Salvador)\; Diego Miranda (STEAM Robotics A
+ cademy\, El Salvador)\; Asheyn Rivera Fajardo (Universidad Nacional Autón
+ oma de Honduras\, Honduras)\; Manuel Cardona (SARA Robotics\, El Salvador)
+ \nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-060@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:IAS-2 · Industrial Power Systems & Electrical Machines · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nIndustry Applications\n16:30 Finite-El
+ ement Analysis of Magnetic Flux Density in an IE4 Line-Start Permanent Mag
+ net Motor Under Voltage Unbalance — Olvin Raudales (Universidad Nacional
+  Autónoma de Honduras\, Honduras)\; Diego A. Alvarenga Cortez (Universida
+ d Nacional Autónoma de Hondurass\, Honduras)\; Dereck David Rubio Sierra 
+ (Universidad Nacional Autónoma de Honduras\, Honduras)\; Jonathan Muñoz 
+ Tabora (National Autonomous University of Honduras\, Honduras)\n16:42 Volt
+ age Sags in Industrial Facilities: Characterization Through Power Quality 
+ Monitoring and Evaluation of Solutions for Operational Continuity — Samu
+ el Calderon and Wilber Calderón (Universidad de El Salvador\, El Salvador
+ )\n16:54 PowerSuite EE: An Integrated MATLAB-Based Platform for Electrical
+  Power Analysis and Hybrid Diagnostics — Ernesto Antonio Morales Rodrigu
+ ez\, César Armando Morales Molina\, José Gerardo Alvarado Polanco\, Abne
+ r Alberto Godínez Hernández\, Gerardo Enrique Mena Recinos and Emerson A
+ lexis Alvarez Corona (Universidad de Sonsonate\, El Salvador)\n17:06 Stack
+ ing-Based Diagnostic Framework Integrating Traditional Dissolved Gas Analy
+ sis (DGA) Methods with Random Forest for Fault Analysis in Power Transform
+ ers — Juan José Montero-Jiménez\, Gustavo Adolfo Gomez-Ramirez\, José
+  Francisco Pérez-Guardiola and Sebatián Mata-Ortega (Tecnológico de Cos
+ ta Rica\, Costa Rica)\n17:18 Standards-Based Multi-Label Fault Detection a
+ nd Classification in Low-Voltage Electrical Systems Using IoT Data and Mac
+ hine Learning — Carlos Levi Cartagena Lobos and Alexander Enrique Rivas 
+ (ITCA FEPADE\, El Salvador)\nSource: https://attend.ieee.org/concapan-2026
+ /en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-061@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:Electrical Safety Workshop Track · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Ing. Nehad El Sherif · Ing. Jos
+ é Vallejos\nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-062@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T173000
+SUMMARY:EDS-1 · Semiconductor Devices & Space Electronics · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nElectron Devices\n16:30 Total Ionizing
+  Dose Radiation Analysis and Shielding Requirement for the CubeSat Quetzal
+ -2's Mission Reliability — Astryd Rolinda Magaly Beb Caal\, José Ignaci
+ o Romero Casasola and Carlos Alberto Esquit (Universidad del Valle de Guat
+ emala\, Guatemala)\n16:42 Wafer Defect Analysis Using Convolutional Neural
+  Networks — Esteban Longo\, Ioseph Larsson Polster González and Carlos 
+ Alberto Esquit (Universidad del Valle de Guatemala\, Guatemala)\n16:54 Pow
+ er Consumption Characterization of Planar MOSFET and FinFET Technologies A
+ cross Nanometer Nodes: A Comparative HSPICE Study — Alan Gomez\, Samuel 
+ David Tortola\, Giovanni Alessandro Jimenez Román and Carlos Alberto Esqu
+ it (Universidad del Valle de Guatemala\, Guatemala)\n17:06 Physics-Informe
+ d Genetic Algorithm for Structural Optimization of PbS Quantum Dot Tandem 
+ Solar Cells — Gabriela Lourdes Rodríguez Parada (Universidad Don Bosco\
+ , El Salvador)\; Nelson Xavier Mejía Sánchez (Valencian International Un
+ iversity\, Spain)\; Andrea Sofía Lemus Cea (Universidad de El Salvador\, 
+ El Salvador)\; Karens Medrano (Universidad Don Bosco\, El Salvador)\nSourc
+ e: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-063@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T163000
+DTEND;TZID=America/Guatemala:20261112T180000
+SUMMARY:Net Working · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nSource: https://attend.ieee.org/concapan-2026/en
+ /program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-064@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261112T183000
+DTEND;TZID=America/Guatemala:20261112T233000
+SUMMARY:Cena Típica · Hotel Barceló
+LOCATION:Hotel Barceló\, Guatemala
+DESCRIPTION:Social event\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Social event
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-065@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T080000
+DTEND;TZID=America/Guatemala:20261113T163000
+SUMMARY:Feria comercial · Exposición de stands · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Trade fair\nRuns until the fair closing at 16:30\; start time n
+ ot printed.\nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Trade fair
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-066@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:Transformación de la atención de la salud mediante la convergenci
+ a de la ciencia y la tecnología · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: PhD Luis Kun\nSource: https://attend.ie
+ ee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-067@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:Gobernar la IA\, proteger los datos\, blindar la red: el nuevo mand
+ ato del CISO · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nLiberty Networks\nSource: https://attend.ieee.org
+ /concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-068@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:Reunión Consejo CAPANA · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Meeting\nSource: https://attend.ieee.org/concapan-2026/en/progr
+ am/
+CATEGORIES:Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-069@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:Código de Red: herramienta para una transición energética en la 
+ región · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Luis Iván Ruiz\nSource: https://attend
+ .ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-070@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:STATCOM en Latinoamérica: diseño e implementación de sistemas di
+ námicos de última generación · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Ing. Iván Isidro García\nSource: http
+ s://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-071@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:The Importance and Process of Auditing an Electrical Safety Program
+  · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Shahid Jamil\nIEEE IAS\nSource: https:/
+ /attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-072@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T090000
+DTEND;TZID=America/Guatemala:20261113T100000
+SUMMARY:Digitalizacion de subestaciones bajo el estándar IEC 61850 · Sal
+ ón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nELECTROTEK\nSource: https://attend.ieee.org/conc
+ apan-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-073@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T100000
+DTEND;TZID=America/Guatemala:20261113T103000
+SUMMARY:COFFEE BREAK
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Break\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-074@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T113000
+SUMMARY:PES-4 · Wind Energy Systems · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nPower & Energy\n10:30 Analyzing the Pe
+ rformance of Three Different PMSG Topologies for Applications in Low Power
+  Wind Turbines — Reynaldo Iracheta Cortez (SECIHTI\, Mexico)\; Joyce Ló
+ pez Gómez and Ana Karen Lopez Gonzalez (UNISTMO\, Mexico)\n10:42 On Desig
+ ning Vibrating-Type PMSGs for Applications in Bladeless Wind Turbines — 
+ Joyce López Gómez (UNISTMO\, Mexico)\; Reynaldo Iracheta Cortez (SECIHTI
+ \, Mexico)\; Ana Karen Lopez Gonzalez (UNISTMO\, Mexico)\n10:54 Field Data
+ -Driven Parametric Modeling and Validation of the Power Curve of a Vertica
+ l Axis Wind Turbine — Gregorio Martínez Reyes (UNISTMO\, Mexico)\; Reyn
+ aldo Iracheta Cortez (SECIHTI\, Mexico)\n11:06 Impact of Frequency-Depende
+ nt Cable Parameters on Voltage Regulation and Power Losses in Wind Farm Co
+ llection Networks: A Tehuantepec Case Study — Ana Karen Lopez Gonzalez (
+ UNISTMO\, Mexico)\; Reynaldo Iracheta Cortez (SECIHTI\, Mexico)\; Joyce L
+ ópez Gómez (UNISTMO\, Mexico)\n11:18 Statistical Characterization of Win
+ d Resources for Wind Farm Planning in Southeastern Mexico — José Toledo
+  Wong (Tecnológico Nacional de México / Centro Nacional de Investigació
+ n y Desarrollo Técnologico\, Mexico)\; Susana Estefany De León- Aldaco (
+ Centro Nacional de Investigación y Desarrollo Tecnológico\, Mexico)\; Je
+ sús Aguayo Alquicira (Cenidet\, Mexico)\; Edgar Octavio Molina Mercado (I
+ TS de los Reyes\, Mexico)\; Eligio Flores Rodríguez (ITS de Irapuato\, Me
+ xico)\; Ricardo Eliú Lozoya Ponce (IT. Chihuahua\, Mexico)\nSource: https
+ ://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-075@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:Foro IA-Verse: El nuevo ecosistema digital e industrial · Auditori
+ um
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Forum\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-076@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:Reunión Consejo CAPANA · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Meeting\nSource: https://attend.ieee.org/concapan-2026/en/progr
+ am/
+CATEGORIES:Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-077@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T113000
+SUMMARY:RAS-2 · Robotat Ecosystem\, Swarms & Aerial Robotics · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nRobotics & Automation\n10:30 Robotat L
+ inalg: A Lightweight Embedded Numerical Library Stack for Control and Robo
+ tics Applications — Laura Andrea Barrientos\, Miguel Zea and Luis Albert
+ o Rivera (Universidad del Valle de Guatemala\, Guatemala)\n10:42 Design an
+ d Experimental Validation of a Low-Cost Omnidirectional Mobile Robot for t
+ he Robotat Ecosystem — Christian Campos\, Miguel Zea and Luis Alberto Ri
+ vera (Universidad del Valle de Guatemala\, Guatemala)\n10:54 Integration a
+ nd Validation of a Crazyflie 2.1 Infrastructure for Individual and Swarm F
+ light in the Robotat — Julio Avila\, Miguel Zea\, Christian Cruz\, Césa
+ r Schwendener\, Angela Figueroa and Luis Alberto Rivera (Universidad del V
+ alle de Guatemala\, Guatemala)\n11:06 Impact of Environment Topology on Ro
+ botic Swarm Aggregation: An Experimental Study with Atta-Bots — Eduardo 
+ Fallas-Valverde and Juan Carlos Brenes-Torres (Instituto Tecnológico de C
+ osta Rica\, Costa Rica)\; Cindy Calderón- Arce and Rebeca Solís-Ortega (
+ Institute of Technology\, Costa Rica)\n11:18 Time-to-Conflict-Aware Event 
+ Prioritization for UAV Conflict Prevention in Low-Altitude Airspace — Er
+ ick Menjivar (Universidad Francisco Gavidia\, El Salvador)\nSource: https:
+ //attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-078@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:FET100 Session · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Fernando Guarín (EDS IEEE) · Prof. Pa
+ ul Berger · Dr. Wilfrido Moreno\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-079@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T113000
+SUMMARY:CAS-1 · Circuits\, Digital Hardware & Timing · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nCircuits & Systems\n10:30 Segmented Pr
+ ecision ALU for Energy-Aware Computing: A RISC-V Bitfield-Controlled Appro
+ ach — Erick Obregon Fonseca (Instituto Tecnológico de Costa Rica\, Cost
+ a Rica)\; Roberto Vargas Villalobos (Costa Rica Institute of Technology\, 
+ Costa Rica)\; Isabel Sevilla Valverde\, Steven Fonseca Bermudez\, Fabrizio
+  Vivas Martinez\, Luis G. Leon-Vega and Jorge Castro-Godínez (Instituto T
+ ecnológico de Costa Rica\, Costa Rica)\n10:42 Implementation of a Floatin
+ g-Point Divider on an FPGA Using Novel USP-Awadhoot Algorithm — Miguel F
+ lores (Don Bosco University\, El Salvador)\; Udayan Sunil Patankar (Stoner
+ idge Electronics & Taltech- Tallinn University of Technology\, Estonia)\; 
+ Sunil Patankar (India)\; Ants Koel (Tallinn University of Technology\, Est
+ onia)\n10:54 Experimental Realization of a Half-Order Analog Integrator Us
+ ing Cascaded Active Filters — Nathaly Jimenez-Salazar\, Luis Poveda-Wong
+  and Arnoldo Castro-Castro (Universidad de Costa Rica\, Costa Rica)\n11:06
+  Chaos\, Synchronization\, and Experimental Validation of Hindmarsh-Rose N
+ eurons Under Heterogeneous Memristive Coupling — Irwin A Diaz (Institute
+  for Scientific and Technological Research of San Luis Potosi (IPICYT)\, M
+ exico)\; Eduardo Elpidio Rodríguez Martínez (IPICYT\, Mexico)\n11:18 Pri
+ meTime SI-Based Crosstalk and Timing Characterization of a 32-Bit Processo
+ r Datapath in 32 nm CMOS — Rudy Estuardo Gregorio Ramírez\, Alex James 
+ Ramírez Aldana and Carlos Alberto Esquit (Universidad del Valle de Guatem
+ ala\, Guatemala)\nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-080@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T103000
+DTEND;TZID=America/Guatemala:20261113T110000
+SUMMARY:Transformando la gestión de redes eléctricas mediante telegestió
+ n: experiencias exitosas de Brasil e implementación en Centroamérica · 
+ Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\n(company not stated)\nSource: https://attend.iee
+ e.org/concapan-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-081@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T110000
+DTEND;TZID=America/Guatemala:20261113T113000
+SUMMARY:De la deteccion a la decision: tres aplicaciones de monitoreo conti
+ nuo con impacto operativo y económico · Salón Expositores\, 2do nivel (
+ Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nSENSA\nSource: https://attend.ieee.org/concapan-
+ 2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-082@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T113000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:PES-5 · Renewable Planning\, Forecasting & Storage · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nPower & Energy\n11:30 Application of T
+ OPSIS Method for Optimal Wind Turbine Selection in a Rural Community in Oa
+ xaca Mexico — Benito Cortés Martínez\, Ilse M Saldivar Rodríguez\, In
+ grid Martínez Reyes\, Jose R Dorrego Portela and Gabriela Rivadeneyra Rom
+ ero (Universidad del Istmo\, Mexico)\; Quetzalcoatl C Hernandez-Escobedo (
+ Ingeniería en energías renovables ENES\, Mexico)\n11:42 Adaptive Wind Sp
+ eed Forecasting Using Operational Wind Regimes and Markov Decision Process
+ es — Iridian G. Ortiz-Jimenez (UNISTMO\, Mexico)\; Reynaldo Iracheta Cor
+ tez (SECIHTI\, Mexico)\n11:54 Multi-Horizon Forecasting of Photovoltaic Ge
+ neration for Optimizing Self-Consumption with BESS Using Machine Learning 
+ Models and Tariff Analysis — David Berrios and William Bonilla (Universi
+ ty of El Salvador\, El Salvador)\; Fernando Arevalo (Universidad de El Sal
+ vador\, El Salvador)\; Omar Otoniel Flores-Cortez (Universidad Tecnologica
+  de El Salvador\, El Salvador)\; Carlos Osmín Pocasangre Jiménez and Wer
+ ner Meléndez-Valle (Universidad de El Salvador\, El Salvador)\n12:06 A St
+ ochastic Framework for Assessing Battery Energy Storage Operation and Degr
+ adation Under Renewable Generation Uncertainty — Manuel Cardona (SARA Ro
+ botics\, El Salvador)\; Kevin Aaron Raudales and Octavio Alvarenga (Univer
+ sidad Nacional de San Juan\, Argentina)\; César Javier González (Univers
+ idad Nacional Autonoma de Honduras\, Honduras)\; Fernando Serrano and Marc
+ o Flores (Universidad Nacional Autónoma de Honduras\, Honduras)\n12:18 Su
+ percapacitors for Frequency Control in Power Systems: A Bibliometric and T
+ echnical Review — Ever Samuel Gonzalez and Daisy Johanna Rodríguez Nuñ
+ ez (Universidad Nacional Autonoma de Honduras\, Honduras)\; Jonathan Muño
+ z Tabora (National Autonomous University of Honduras\, Honduras)\; Cinthya
+  Irias (Universidad Nacional Autonoma de Honduras\, Honduras)\nSource: htt
+ ps://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-083@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T113000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:IAS-3 · AI & Automation for Agriculture · Dalí
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nIndustry Applications\n11:30 Reuse of 
+ Components from Obsolete Machinery for Developing a Metal Detection System
+  for Cocoa Paste: A Proof of Concept — Esteban Fernando Ordóñez-Morale
+ s (Salesian Polytechnic University\, Ecuador)\; Monica Huerta (Universidad
+  Estatal de Milagro\, Ecuador)\; Jairo Sacoto (Universidad Politecnica Sal
+ esiana\, Ecuador)\; Antonio Pérez-Torres (Universidad Politécnica Salesi
+ ana\, Ecuador)\; Roger J. Sarmiento and Marlene C. Villanueva (Universidad
+  Politecnica Salesiana\, Ecuador)\n11:42 Instance Segmentation for Automat
+ ed Pineapple Counting: A Deep Learning Approach Using Mask R-CNN — Rodri
+ go Herrera (Universidad Cenfotec\, Costa Rica)\n11:54 Spectral Classificat
+ ion of Coffee Varieties for Rust Resistance Using Random Forest: Early Det
+ ection in Asymptomatic Leaves — Nelson Xavier Mejía Sánchez (Valencian
+  International University\, Spain)\; Samuel De la O\, Gerardo Benítez and
+  Mario Saravia (Universidad de El Salvador\, El Salvador)\; Carlos Rudamas
+  (Unievrsidad de El Salvador\, El Salvador)\n12:06 From Public Data to Rea
+ l-Farm Conditions: Evaluating Domain Shift and Data Augmentation for Dairy
+  Cattle Behavior Detection — Marcelo Tsuguio Okano (Paulista University 
+ - UNIP\, Brazil)\; Chan Kong Fong and Marcio J. P. Antonio (Paulista Unive
+ rsity (UNIP)\, Brazil)\n12:18 Design\, Structural Analysis\, and Robotic V
+ alidation of a Clamshell End Effector for Agricultural Grain Handling — 
+ Alicia Reyes-Duke\, Silvio Javier Lázaro-Cárdenas\, María Celeste Parad
+ a-Acosta and Víctor Eduardo Guerra (Universidad Tecnológica Centroameric
+ ana\, (UNITEC)\, Honduras)\nSource: https://attend.ieee.org/concapan-2026/
+ en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-084@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T113000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:EDU-2 · Engineering Education & AI in Learning · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Technical paper session\nEducation\n11:30 Collaborative Learnin
+ g Strategies in Electrical Engineering: Gender Perspective — Mercedes Ch
+ acón Vásquez (Universidad de Costa Rica\, Costa Rica)\n11:42 A Verificat
+ ion-Centered Framework for AI Literacy in Construction Engineering Technol
+ ogy Education — Chad Roller (University of Oklahoma\, USA)\; Amy King Le
+ wis\, Sadia Raisa and Soojin Yoon (Oklahoma State University\, USA)\n11:54
+  Student Perceptions of AI-Supported Feedback on Programming Projects: An 
+ Exploratory Case Study — Carlos Barillas Colón (Galileo University)\; M
+ iguel Morales Chan\, Milvia Rosales and Rocael Hernandez-Rizzardini (Galil
+ eo University\, Guatemala)\n12:06 Junteki-EDU for Adaptive Expertise in En
+ gineering Design Education — Estefany Valencia (Universidad Don Bosco\, 
+ El Salvador)\; Gustavo A Salloum S (KAIZEN COMPANY INC\, Panama)\n12:18 Cy
+ ber-Physical Systems as a Basis for the Progressive Introduction of Comput
+ ing and Engineering Fundamentals — Juan A. Solano-Quesada (Costa Rica In
+ stitute of Technology (Tecnológico de Costa Rica)\, Costa Rica)\; Ignacio
+  Trejos-Zelaya (Universidad Cenfotec\, Costa Rica)\nSource: https://attend
+ .ieee.org/concapan-2026/en/program/
+CATEGORIES:Technical paper session
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-085@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T113000
+DTEND;TZID=America/Guatemala:20261113T120000
+SUMMARY:El futuro del cable: Innovaciones que impulsan eficiencia\, sosteni
+ bilidad y desempeño. · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nPRYSMIAN\nSource: https://attend.ieee.org/concap
+ an-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-086@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T120000
+DTEND;TZID=America/Guatemala:20261113T123000
+SUMMARY:Ciberelectricidad 4.0: del bit al Megawatt\, Ciberseguridad OT para
+  el sector eléctrico. · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nMABREX\nSource: https://attend.ieee.org/concapan
+ -2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-087@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T123000
+DTEND;TZID=America/Guatemala:20261113T140000
+SUMMARY:ALMUERZO
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Lunch\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-088@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T150000
+SUMMARY:Radio Sensing for Vehicle Collision Prevention · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Carlos Gutiérrez\nDistinguished Lectur
+ er VTS\nSource: https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-089@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:Foro: Eficiencia Energética 360°\, tecnología\, gestión y soste
+ nibilidad · Auditorium
+LOCATION:Auditorium\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Forum\nGEE · PES IEEE\nSource: https://attend.ieee.org/concapa
+ n-2026/en/program/
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-090@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:Taller Women in Engineering (WIE) · Cafetal 2
+LOCATION:Cafetal 2\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Karen Tobar\nSource: https://att
+ end.ieee.org/concapan-2026/en/program/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-091@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T150000
+SUMMARY:Riesgos eléctricos en plantas FV: del commissioning al O&M · Dal
+ í
+LOCATION:Dalí\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Ing. Carlos Boj\nSource: https://attend
+ .ieee.org/concapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-092@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:Guatemala: política energética y oportunidades de inversión en e
+ l sector eléctrico · De la Vega
+LOCATION:De la Vega\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nGET.pro y MEM\nSource: https://attend.ieee.org/co
+ ncapan-2026/en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-093@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:★ Workshop AI y Datos · Garavito
+LOCATION:Garavito\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Workshop / tutorial\nSpeakers: Jaime García\nIEEE Computer Soc
+ iety\nJaime's session\nSource: https://attend.ieee.org/concapan-2026/en/pr
+ ogram/
+CATEGORIES:Workshop / tutorial
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-094@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T140000
+DTEND;TZID=America/Guatemala:20261113T150000
+SUMMARY:Postes en PRFV y estructuras metálica: Criterios técnicos y econ
+ ómicos para una infraestructura eficiente y confiable. · Salón Exposito
+ res\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nPROLECSA\nSource: https://attend.ieee.org/concap
+ an-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-095@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T150000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:Big Data: de los datos al conocimiento · Asturias
+LOCATION:Asturias\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Invited talk\nSpeakers: Dr. Roger Clotet Martínez\nUniversidad
+  Internacional de Valencia\nSource: https://attend.ieee.org/concapan-2026/
+ en/program/
+CATEGORIES:Invited talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-096@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T150000
+DTEND;TZID=America/Guatemala:20261113T153000
+SUMMARY:Uso de FR3 Aceite dielectrico en transformdores para energías reno
+ vables\, centros de datos y baterias · Salón Expositores\, 2do nivel (En
+ trada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nCARGILL\nSource: https://attend.ieee.org/concapa
+ n-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-097@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T153000
+DTEND;TZID=America/Guatemala:20261113T160000
+SUMMARY:Iluminación como Ecosistema IoT: Integración de Controles y BMS 
+ · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nAsociación Guatemalteca de Iluminación\nSource
+ : https://attend.ieee.org/concapan-2026/en/program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-098@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T160000
+DTEND;TZID=America/Guatemala:20261113T163000
+SUMMARY:COFFEE BREAK
+LOCATION:All rooms\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Break\nSource: https://attend.ieee.org/concapan-2026/en/program
+ /
+CATEGORIES:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-099@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T163000
+DTEND;TZID=America/Guatemala:20261113T170000
+SUMMARY:Clausura · Salón Expositores\, 2do nivel (Entrada Libre)
+LOCATION:Salón Expositores\, 2do nivel (Entrada Libre)\, Hotel Westin Cami
+ no Real\, Guatemala
+DESCRIPTION:Industry talk\nSource: https://attend.ieee.org/concapan-2026/en
+ /program/
+CATEGORIES:Industry talk
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-100@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T163000
+DTEND;TZID=America/Guatemala:20261113T180000
+SUMMARY:Clausura de la feria · Salón Real
+LOCATION:Salón Real\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Social event\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Social event
+END:VEVENT
+BEGIN:VEVENT
+UID:c26-101@concapan2026.local
+DTSTAMP:20261112T140000Z
+DTSTART;TZID=America/Guatemala:20261113T190000
+DTEND;TZID=America/Guatemala:20261113T233000
+SUMMARY:Cena de Clausura
+LOCATION:Not stated\, Hotel Westin Camino Real\, Guatemala
+DESCRIPTION:Social event\nSource: https://attend.ieee.org/concapan-2026/en/
+ program/
+CATEGORIES:Social event
+END:VEVENT
+END:VCALENDAR

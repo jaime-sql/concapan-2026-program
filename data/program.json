@@ -1,0 +1,2011 @@
+{
+ "meta": {
+  "event": "CONCAPAN XLIV · 2026 IEEE 44th Central America and Panama Convention",
+  "venue": "Hotel Westin Camino Real, Ciudad de Guatemala",
+  "timezone": "America/Guatemala (UTC-6, same as El Salvador)",
+  "sources": {
+   "page": "https://attend.ieee.org/concapan-2026/en/program/",
+   "technical": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/CONCAPAN_XLIV_Technical_Program_1.pdf",
+   "industry": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/charlas-comerciales.pdf",
+   "dia1": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia1.pdf",
+   "dia2": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia2.pdf",
+   "dia3": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia3.pdf",
+   "dia4": "https://attend.ieee.org/concapan-2026/wp-content/uploads/sites/787/dia4.pdf"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-11-10",
+   "start": "08:00",
+   "end": "19:30",
+   "title": "Bodega / Inscripciones",
+   "room": "De la Vega",
+   "type": "Registration",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-001"
+  },
+  {
+   "date": "2026-11-10",
+   "start": "08:00",
+   "end": "19:30",
+   "title": "Montaje de la feria",
+   "room": "Salón Real",
+   "type": "Logistics",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-002"
+  },
+  {
+   "date": "2026-11-10",
+   "start": "09:00",
+   "end": "12:30",
+   "title": "Taller de fabricación de chips Tiny Tapeout",
+   "room": "Asturias",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "Open Silicon · IEEE · Galileo",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-003"
+  },
+  {
+   "date": "2026-11-10",
+   "start": "12:30",
+   "end": "14:00",
+   "title": "ALMUERZO",
+   "room": "Asturias",
+   "type": "Lunch",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-004"
+  },
+  {
+   "date": "2026-11-10",
+   "start": "14:00",
+   "end": "17:00",
+   "title": "Taller de fabricación de chips Tiny Tapeout",
+   "room": "Asturias",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "Open Silicon · IEEE · Galileo",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-005"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:30",
+   "title": "Taller de fabricación de chips Tiny Tapeout",
+   "room": "Asturias",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "Open Silicon · IEEE · Galileo",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-006"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:30",
+   "title": "Taller de semiconductores",
+   "room": "Cafetal 2",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "TryEngineering",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-007"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:30",
+   "title": "Tutorial: Subestaciones eléctricas, una visión holística",
+   "room": "Dalí",
+   "type": "Workshop / tutorial",
+   "speakers": "Gustavo Salloum",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-008"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:30",
+   "title": "Bodega / Inscripciones",
+   "room": "De la Vega",
+   "type": "Registration",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-009"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:30",
+   "title": "Tutorial: Calidad de la energía, problemas, causas y soluciones",
+   "room": "Garavito",
+   "type": "Workshop / tutorial",
+   "speakers": "Gustavo Ramos",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-010"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "16:30",
+   "title": "Montaje de la feria",
+   "room": "Salón Real",
+   "type": "Logistics",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-011"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "09:30",
+   "end": "12:30",
+   "title": "Mini STEM-Summit",
+   "room": "Cafetal 1",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-012"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "12:30",
+   "end": "14:00",
+   "title": "ALMUERZO",
+   "room": "All rooms",
+   "type": "Lunch",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-013"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "14:00",
+   "end": "16:30",
+   "title": "Taller de fabricación de chips Tiny Tapeout",
+   "room": "Asturias",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "Open Silicon · IEEE · Galileo",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-014"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "14:00",
+   "end": "16:30",
+   "title": "Chip Forum: El futuro de los semiconductores comienza en nuestra región",
+   "room": "Auditorium",
+   "type": "Forum",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-015"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "14:00",
+   "end": "16:30",
+   "title": "Tutorial: Subestaciones eléctricas, una visión holística",
+   "room": "Dalí",
+   "type": "Workshop / tutorial",
+   "speakers": "Gustavo Salloum",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-016"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "14:00",
+   "end": "16:30",
+   "title": "Bodega / Inscripciones",
+   "room": "De la Vega",
+   "type": "Registration",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-017"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "14:00",
+   "end": "16:30",
+   "title": "Tutorial: Calidad de la energía, problemas, causas y soluciones",
+   "room": "Garavito",
+   "type": "Workshop / tutorial",
+   "speakers": "Gustavo Ramos",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-018"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "16:30",
+   "end": "19:00",
+   "title": "Inauguración de la feria",
+   "room": "Salón Real",
+   "type": "Social event",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-019"
+  },
+  {
+   "date": "2026-11-11",
+   "start": "19:00",
+   "end": "23:30",
+   "title": "Cena de Inauguración",
+   "room": "Not stated",
+   "type": "Social event",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-020"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Conferencia Magistral Inaugural: El gato de Schrödinger amenaza la confianza digital",
+   "room": "Auditorium – Garavito (shared)",
+   "type": "Keynote",
+   "speakers": "PhD Julio González Sáenz y Eric Sosa",
+   "org": "",
+   "notes": "Invited-presentations page lists \"Dr. Julio González-Sáenz & Erick Sosa\" (Vodafone UK · GBM · InnoQlar Group).",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-021"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Taller Smart Village",
+   "room": "Cafetal 2",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-022"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Inovando en conexiones eléctricas y red compacta",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "IMPELSA",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-023"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "09:00",
+   "end": "18:00",
+   "title": "Feria comercial · Exposición de stands",
+   "room": "Salón Real",
+   "type": "Trade fair",
+   "speakers": "",
+   "org": "",
+   "notes": "Runs all day in the grid; exact hours not printed.",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-024"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:00",
+   "end": "10:30",
+   "title": "COFFEE BREAK",
+   "room": "All rooms",
+   "type": "Break",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-025"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "PES-1 · Solar PV & Distributed Generation",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Power & Energy",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "PES-1",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Techno-Economic Assessment of a Grid-Connected Residential Photovoltaic System Under a Subsidized Electricity Tariff: A Case Study in Southeastern Mexico",
+     "authors": "José Toledo Wong (Tecnológico Nacional de México / Centro Nacional de Investigación y Desarrollo Técnologico, Mexico); Susana Estefany De León- Aldaco (Centro Nacional de Investigación y Desarrollo Tecnológico, Mexico); Jesús Aguayo Alquicira (Cenidet, Mexico); Alejandro Daniel Perez Uc, David Lugo Chávez and Ignacio Hernández Reyes (TecNM de Centla, Mexico)"
+    },
+    {
+     "time": "10:42",
+     "title": "Performance Improvement of Monofacial Photovoltaic Modules Through Passive Microfluidic Cooling: Experimental Results and Analysis",
+     "authors": "Luis Diego Murillo-Soto and Leonardo Cardinale-Villalobos (Instituto Tecnológico de Costa Rica, Costa Rica); Christopher Vega- Sanchez (Institulo Tecnológico de Costa Rica, Costa Rica); Luis G. Leon-Vega (Instituto Tecnológico de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "10:54",
+     "title": "Optimal Location of Distributed Generation in Microgrids Using Nonlinear Optimization",
+     "authors": "Juan Carlos Lata (Universidad Politécnica Salesiana, Ecuador); Javier Velasco and Miguel Jerez (UPS, Ecuador); Marco Tostado (UJAEN, Spain)"
+    },
+    {
+     "time": "11:06",
+     "title": "Real-Time Hosting Capacity Screening for Smart Substation Automation: A Sensitivity-Guided Two-Stage Approach",
+     "authors": "Diego Miranda (STEAM Robotics Academy, El Salvador); Bryan Vásquez-Pineda (IEEE, USA & STEAM Robotics Academy, El Salvador); Asheyn Rivera Fajardo (Universidad Nacional Autónoma de Honduras, Honduras); Jonathan Muñoz Tabora (National Autonomous University of Honduras, Honduras)"
+    },
+    {
+     "time": "11:18",
+     "title": "Impact of Distributed Generation on the Distribution System Power Factor: A Case Study in Ecuador",
+     "authors": "Mishelle Ayala (Empresa Eléctrica Quito, Ecuador); Luis A. Paredes and Marcelo G. Molina (Universidad Nacional de San Juan - CONICET & Instituto de Energía Eléctrica, Argentina)"
+    }
+   ],
+   "id": "c26-026"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "Foro: Nueva generación de energía renovable, inversión, desarrollo y estabilidad",
+   "room": "Auditorium",
+   "type": "Forum",
+   "speakers": "",
+   "org": "AGER · PES",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-027"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "Taller TryEngineering",
+   "room": "Cafetal 1",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-028"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "Taller Smart Village",
+   "room": "Cafetal 2",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-029"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "CS-1 · ML Methods, Modelling & Simulation",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Computer",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "CS-1",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Exploring Hybrid Quantum-Classical Machine Learning for Energy-Efficient Telecom Networks: A Research Framework for 5G and Beyond",
+     "authors": "Julio Gonzalez-Saenz (InnoQlar Group UK, United Kingdom (Great Britain))"
+    },
+    {
+     "time": "10:42",
+     "title": "Measuring Distributional Degradation in GPU Spatial Indices for Nearest-Neighbor Search",
+     "authors": "Josué Morera Salas and Christian Asch (Centro Nacional de Alta Tecnología, Costa Rica)"
+    },
+    {
+     "time": "10:54",
+     "title": "Sparse Dictionary Learning for Surrogate Modeling Under Severe Data Scarcity",
+     "authors": "Cindy Calderón-Arce (Institute of Technology, Costa Rica); Pablo Alvarado-Moya (Costa Rica Institute of Technology, Costa Rica); Pablo Soto-Quiros (The Costa Rica Institute of Technology, Costa Rica)"
+    },
+    {
+     "time": "11:06",
+     "title": "Fast Retrieval of Trace-Gas Slant Column Densities from MAX-DOAS Spectra via a Physics-Informed Autoencoder",
+     "authors": "Nelson Xavier Mejía Sánchez (Valencian International University, Spain); Levi Torres, Nelson Cisneros, Jorge Cuadra and Gerardo Benítez (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "11:18",
+     "title": "Environmental Variable Simulator for Validating the SIMA Early Warning System Through Hardware-in-the-Loop Testing",
+     "authors": "Denis Altuve, Karens Medrano, Kelman Belloso, Emily Mejía, Némesis Valencia and William Ramos (Universidad Don Bosco, El Salvador)"
+    }
+   ],
+   "id": "c26-030"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "Factor Graphs FTW: From SLAM to Control to Robot Dynamics",
+   "room": "De la Vega",
+   "type": "Invited talk",
+   "speakers": "Prof. Frank Dellaert",
+   "org": "RAS",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-031"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "IAS-1 · Industrial AI & Industry 4.0",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Industry Applications",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "IAS-1",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Multi-Horizon Forecasting with Explainable Transformers: A Dual Case Study on Power Quality Monitoring and Outage Prediction for Electric Distribution Networks",
+     "authors": "Jorge Alberto López Cano, Julio Alberto Guzmán Martínez and Jorge Bryan Díaz Lemus (University of El Salvador, El Salvador); Fernando Arevalo (Universidad de El Salvador, El Salvador); Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador); Carlos Osmín Pocasangre Jiménez (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "10:42",
+     "title": "Augmenting, Not Automating: Explainable AI for Human-Centered Incident Triage in Electric Power Distribution",
+     "authors": "Martín A. Hunziker and Carla M Rosetti (Calden Consultoría, Argentina); Laura Alonso Alemany (Universidad Nacional de Córdoba, Argentina)"
+    },
+    {
+     "time": "10:54",
+     "title": "Edge AI Framework for Remaining Useful Life Estimation in Industrial Pressure Control Valves",
+     "authors": "Juan J Guevara (ITCA FEPADE, El Salvador)"
+    },
+    {
+     "time": "11:06",
+     "title": "Digital Transformation Maturity in El Salvador's Manufacturing: An Empirical Assessment of Industry 4.0 Readiness",
+     "authors": "Manuel Cardona and Erika Castillo (SARA Robotics, El Salvador)"
+    },
+    {
+     "time": "11:18",
+     "title": "A Data-Centric Analysis of Training Image Degradation for Edge-Based PCB Defect Detection",
+     "authors": "Marcelo Tsuguio Okano (Paulista University - UNIP, Brazil); William A. P. Lopes (Paulista University UNIP, Brazil); Sergio Miele Ruggero, Chan Kong Fong, Marcio J. P. Antonio and Victoria F. Dionizio (Paulista University (UNIP), Brazil)"
+    }
+   ],
+   "id": "c26-032"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "10:30",
+   "end": "11:00",
+   "title": "Almacenamiento de energia - BESS",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "ANXOR",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-033"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:00",
+   "end": "11:30",
+   "title": "La Energía que nos hace Avanzar.",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "ENERWIRE",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-034"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "PES-2 · Energy Policy, Buildings & Community Energy",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Power & Energy",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "PES-2",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Grid-Connected Microgrids in Latin America: Regulatory and Economic Perspectives",
+     "authors": "Giselle Francine Brito Muniz and Marlon Max Huamani Bellido (University of Campinas, Brazil)"
+    },
+    {
+     "time": "11:42",
+     "title": "A Bayesian Difference-in-Differences Method for Evaluating the Carbon Tax in Chile",
+     "authors": "Reinier Fernández-López (Universidad Arturo Prat, Chile); Antonio Pérez-Torres (Universidad Politécnica Salesiana, Ecuador); Jean Navarrete-Campos (Universidad de Concepción, Chile)"
+    },
+    {
+     "time": "11:54",
+     "title": "Development of a Hybrid Water Harvesting System for a Vulnerable Insular Community in Costa Rica",
+     "authors": "Anibal Ruiz-Barquero (Instituto Tecnologico de Costa Rica, Costa Rica); Renato Rímolo Donadio (Tecnológico de Costa Rica, Costa Rica); Sergio Arriola-Valverde (Tecnologico de Costa Rica & ITCR, Costa Rica); Karolina Villagra-Mendoza and Federico Masís-Meléndez (Instituto Tecnológico de Costa Rica & ITCR, Costa Rica); Grethel Ulate-Garita (Universidad Nacional de Costa Rica & UNA, Costa Rica); Renato Rimolo-Donadio (Instituto Tecnológico de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "12:06",
+     "title": "Solar Domestic Hot Water in Tegucigalpa, Honduras: Specific Performance of a Residential Case Compared to Estimated Nationwide Potential",
+     "authors": "Ricardo Enrico Maldonado Peña (Universidad Tecnológica Centroamericana (UNITEC), Honduras); Mario R. Rubio Henriquez (Universidad Nacional Autonoma de Honduras (UNAH), Honduras)"
+    },
+    {
+     "time": "12:18",
+     "title": "Assessment of Overcooling, Thermal Comfort, and Energy Demand in an Air-Conditioned University Classroom Under Hot-Humid Tropical Conditions",
+     "authors": "Samuel Bonilla Gracia, Miguel Doria Oviedo, Alexis Ramirez Barbera and Carlos Lazaro Menco (Universidad del Sinu, Colombia)"
+    }
+   ],
+   "id": "c26-035"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "RAS-1 · Manipulators, Perception & Robot Vision",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Robotics & Automation",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "RAS-1",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Neural Network Trajectory Approximation and Genetic Algorithm Workpiece Pose Optimization for Robotic Welding",
+     "authors": "César Armando Morales Molina, Ernesto Antonio Morales Rodriguez, Abner Alberto Godínez Hernández, José Gerardo Alvarado Polanco, Emerson Alexis Alvarez Corona and Gerardo Enrique Mena Recinos (Universidad de Sonsonate, El Salvador)"
+    },
+    {
+     "time": "11:42",
+     "title": "Implementation and Validation of a Wireless HMI Interface for the Control of a 5-DOF Robotic Arm",
+     "authors": "Ernesto Antonio Morales Rodriguez, César Armando Morales Molina, Gerardo Enrique Mena Recinos, Abner Alberto Godínez Hernández, Emerson Alexis Alvarez Corona and José Gerardo Alvarado Polanco (Universidad de Sonsonate, El Salvador)"
+    },
+    {
+     "time": "11:54",
+     "title": "Quaternion-Based Multibody-Constraint Forward Kinematics of the Agile Eye 3-RRR Spherical Parallel Robot",
+     "authors": "Manuel Cardona (SARA Robotics, El Salvador); Fernando Serrano (Universidad Nacional Autónoma de Honduras, Honduras); Bryan Vásquez-Pineda (IEEE, USA & STEAM Robotics Academy, El Salvador); José Luis Ordóñez Avila (Universidad Evangélica de El Salvador, Honduras)"
+    },
+    {
+     "time": "12:06",
+     "title": "Experimental Evaluation of a Stereo Camera and mmWave Radar Perception Setup for off-Road Machinery Scenarios",
+     "authors": "Juan Francisco D. De La Fuente Bustos (Tecnologico de Monterrey, Mexico); Alejandro Vidal-Rosas (John Deere, USA); Sergio Camacho-Leon (Tecnológico de Monterrey, Mexico)"
+    },
+    {
+     "time": "12:18",
+     "title": "An Embedded Deep Learning-Based License Plate Recognition System for Vehicles Using YOLOv7",
+     "authors": "Andrés Roberto Chávez (Universidad Tecnológica Centroamericana, (UNITEC), Honduras); María Celeste Parada-Acosta (Universidad Tecnológica Centroamericana, Honduras); Héctor Villatoro (Universidad Tecnológica Centroamericana, (UNITEC), Honduras)"
+    }
+   ],
+   "id": "c26-036"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "Energía sostenible y conectividad para la salud y la educación",
+   "room": "De la Vega",
+   "type": "Invited talk",
+   "speakers": "Mónica Huerta",
+   "org": "EMBS-IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-037"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "COM-1 · IoT Sensing & Environmental Monitoring",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Communications",
+   "notes": "Chair: Cesar Azurdia (Universidad de Chile, Chile)",
+   "source": "technical PDF",
+   "code": "COM-1",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Technological Foundations for Future Monitoring of Water Contamination in Lake Atitlán",
+     "authors": "Paola Ayala, Christian Carazo, Angela Quezada, Luis Alberto Rivera and Miguel Zea (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "11:42",
+     "title": "LSTM-Based Short-Term CO2 Forecasting for Urban Environmental Monitoring: A Case Study in the Historic Downtown of San Salvador",
+     "authors": "Gerado Jovel and Fernando Arevalo (Universidad de El Salvador, El Salvador); Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador); Carlos Osmín Pocasangre Jiménez and Werner Meléndez-Valle (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "11:54",
+     "title": "Early Detection of Coffee Leaf Rust in Susceptible Varieties Using a Portable Reflectance IoT Prototype",
+     "authors": "Samuel De la O (Universidad de El Salvador, El Salvador); Nelson Xavier Mejía Sánchez (Valencian International University, Spain); Gerardo Benítez and Mario Saravia (Universidad de El Salvador, El Salvador); Carlos Rudamas (Unievrsidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "12:06",
+     "title": "Wearable Embedded System for Automatic Social Actions Classification Using Inertial Sensing and Machine Learning",
+     "authors": "Ignacio Grané-Rojas (Costa Rican Institute of Technology, Costa Rica); Kimberly Fiorella Mena Bravo (Costa Rican Institute of Technology); Jeferson González-Gómez and Laura Cabrera-Quirós (Costa Rican Institute of Technology, Costa Rica)"
+    },
+    {
+     "time": "12:18",
+     "title": "Design and Field Deployment of a Low-Cost Multi-Sensor DAQ for Electrical, Thermal and Environmental Monitoring of Photovoltaic Modules",
+     "authors": "Maickol Fernández-Obando (Universidad Estatal a Distancia, Costa Rica); Luis G. Leon-Vega and Leonardo Cardinale- Villalobos (Instituto Tecnológico de Costa Rica, Costa Rica); Christopher Vega-Sanchez (Institulo Tecnológico de Costa Rica, Costa Rica); Luis Diego Murillo-Soto (Instituto Tecnológico de Costa Rica, Costa Rica)"
+    }
+   ],
+   "id": "c26-038"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "11:30",
+   "end": "12:00",
+   "title": "Reconectadores",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "ELECTROVAL",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-039"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "12:00",
+   "end": "12:30",
+   "title": "Soluciones de mediación Inteligente",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "CELASA",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-040"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "12:30",
+   "end": "14:00",
+   "title": "ALMUERZO",
+   "room": "All rooms",
+   "type": "Lunch",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-041"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "COM-2 · Wireless & Optical Communications",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Communications",
+   "notes": "Chair: Cesar Azurdia (Universidad de Chile, Chile)",
+   "source": "technical PDF",
+   "code": "COM-2",
+   "papers": [
+    {
+     "time": "14:00",
+     "title": "Terrain-Dependent Accuracy of LoRaWAN Coverage Prediction: Simulation and Field Validation in Two Honduran Cities",
+     "authors": "Nelson Reyes (Universidad Nacional Autónoma de Honduras, Honduras)"
+    },
+    {
+     "time": "14:12",
+     "title": "Drive Test Based Calibration of the Standard Propagation Model for 5G NR n78 Network Planning in Urban Managua, Nicaragua",
+     "authors": "Cedrick Elksnherr Dalla Torre Parrales and Fernando Antonio Flores Guido (Universidad Nacional de Ingeniería, Nicaragua); Leonel Mendieta (Universidad Autónoma de Managua, Nicaragua)"
+    },
+    {
+     "time": "14:24",
+     "title": "Design and Experimental Validation of a Low-Cost OFDM-Based VLC Transmitter",
+     "authors": "Benjamín Santelices Melis and Cesar Azurdia (Universidad de Chile, Chile); Pablo Palacios Játiva (Universidad Diego Portales, Chile)"
+    },
+    {
+     "time": "14:36",
+     "title": "Theoretical and Numerical Framework for Self-Injection Locking of a DFB Laser to an All-Fiber Ring Resonator",
+     "authors": "Napoleon Gutierrez and Oscar Wenceslao Rivas (Universidad Don Bosco, El Salvador)"
+    },
+    {
+     "time": "14:48",
+     "title": "Urban LoRaWAN Coverage Optimization in Smart Cities: A Systematic Review of the Shift from Static Heuristics to AI-Driven Adaptation",
+     "authors": "Santiago Alejandro Acurio Maldonado (Pontificia Universidad Católica del Ecuador Sede Ambato, Ecuador); Jairo Sacoto (Universidad Politecnica Salesiana, Ecuador); Monica Karel Huerta (Simon Bolivar University, Ecuador); Esteban Fernando Ordóñez-Morales (Salesian Polytechnic University, Ecuador); Antonio Pérez-Torres (Universidad Politécnica Salesiana, Ecuador); Edison F Meneses-Torres (Pontificia Universidad Católica del Ecuador Sede Ambato, Ecuador)"
+    }
+   ],
+   "id": "c26-042"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Foro: De la planificación a la energización, cómo acelerar la transmisión en Guatemala",
+   "room": "Auditorium",
+   "type": "Forum",
+   "speakers": "",
+   "org": "AGTE · IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-043"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Taller EPICS",
+   "room": "Cafetal 1",
+   "type": "Workshop / tutorial",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-044"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Panel WIE / Young Professionals",
+   "room": "Cafetal 2",
+   "type": "Panel",
+   "speakers": "",
+   "org": "IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-045"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "BIO-1 · Assistive & Human-Centered Technologies",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Biomedical Engineering",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "BIO-1",
+   "papers": [
+    {
+     "time": "14:00",
+     "title": "A Cascaded Embedded Architecture for Real-Time Pronunciation Feedback: Design, Quantization, and Multi-Criteria Evaluation on a Low-Cost NPU for Educational and Clinical Speech Screening in Latin Amer",
+     "authors": "Edward Wilder Caro Anzola and Miguel Ángel Mendoza Moreno (Universidad Pedagógica y Tecnológica de Colombia, Colombia); Wilson J. Sarmiento (Universidad Militar Nueva Granada, Colombia)"
+    },
+    {
+     "time": "14:12",
+     "title": "Colombian Sign Language Classification with Landmark Preprocessing Techniques for Recurrent Neural Networks",
+     "authors": "Juan E. Mora-Zarate, Diego E. Escalante-García and Claudia L. Garzón-Castro (Universidad de La Sabana, Colombia); Carlos Bran (Universidad Don Bosco, El Salvador)"
+    },
+    {
+     "time": "14:24",
+     "title": "Mechanical and Ergonomic Evaluation of an Adapted Vehicle Safety Harness for Children with Autism",
+     "authors": "Gilberto A. Carrillo, Emely V. Landaverde and Sergio M. García (Universidad Don Bosco, El Salvador)"
+    },
+    {
+     "time": "14:36",
+     "title": "Iterative Usability Validation of a Child-Rearing Mobile App: A User-Centered Design and Action Research Case Study",
+     "authors": "Karens Medrano, Evelyn Hernández and Andrea Urbano (Universidad Don Bosco, El Salvador)"
+    }
+   ],
+   "id": "c26-046"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Electrical Safety Workshop Track",
+   "room": "De la Vega",
+   "type": "Workshop / tutorial",
+   "speakers": "Ing. Marcelo Valdez · Ing. Gustavo Salloum · Dr. Gustavo Ramos",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-047"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "EDU-1 · Educational Technology & STEM",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Education",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "EDU-1",
+   "papers": [
+    {
+     "time": "14:00",
+     "title": "Digital Transformation of Academic Support Through No-Code Virtual Assistants: Toward a Methodological Framework for Their Implementation",
+     "authors": "Bayron Cordero-Moran and Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador)"
+    },
+    {
+     "time": "14:12",
+     "title": "Integrating Interactive Physics Simulators into Moodle: An Strategy for Asynchronous Virtual Practices in Higher Education",
+     "authors": "Bayron Cordero-Moran, Omar Otoniel Flores-Cortez, Juan Santos-Escobar and Mauricio Chinchilla-Burgos (Universidad Tecnologica de El Salvador, El Salvador)"
+    },
+    {
+     "time": "14:24",
+     "title": "A Modular Open-Source Robotics Toolkit with Integrated AI Modules to Enhance Computational Thinking in K-12 STEM Education",
+     "authors": "Angela Pineda (Universidad de El Salvador, El Salvador); Bryan Vásquez-Pineda (IEEE, USA & STEAM Robotics Academy, El Salvador); Manuel Cardona (SARA Robotics, El Salvador); Carlos Osmín Pocasangre Jiménez (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "14:36",
+     "title": "Second Derivative Analysis of Probabilistic Uncertainty Ranges in Second Order Monte Carlo Simulation",
+     "authors": "Juan Sitavi (Universidad de San Carlos de Guatemala, Guatemala)"
+    }
+   ],
+   "id": "c26-048"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:00",
+   "end": "14:30",
+   "title": "CHINT: Electrical seminar",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "CHINT",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-049"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "14:30",
+   "end": "15:00",
+   "title": "Equipos de seguridad",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "KET PLUS",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-050"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "15:00",
+   "end": "16:00",
+   "title": "COM-3 · Networks, Security & Edge Computing",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Communications",
+   "notes": "Chair: Oscar A. Gonzalez Lira (Universidad Galileo, Guatemala)",
+   "source": "technical PDF",
+   "code": "COM-3",
+   "papers": [
+    {
+     "time": "15:00",
+     "title": "Benchmark of Transformer Models for Open-World Network Intrusion Detection Using RAG",
+     "authors": "Oscar A. Gonzalez Lira (Universidad Galileo, Guatemala); Alberto Marroquin (Galileo University, Guatemala); Marco A. To De Leon (Universidad Galileo, Guatemala)"
+    },
+    {
+     "time": "15:12",
+     "title": "Adaptive SLA-Based Traffic Steering for Low-Cost Residential Multi-Homing Without BGP",
+     "authors": "Carlos Bran (Universidad Don Bosco, El Salvador); Claudia L. Garzón-Castro (Universidad de La Sabana, Colombia); José Varela- Aldás (Universidad Indoamérica, Ecuador)"
+    },
+    {
+     "time": "15:24",
+     "title": "Economic Modeling of Competitive Fog Service Provision Under Latency and Congestion Constraints",
+     "authors": "Jairo Sacoto (Universidad Politecnica Salesiana, Ecuador); Luis Tello-Oquendo (Universidad Nacional de Chimborazo, Ecuador); Antonio Pérez-Torres (Universidad Politécnica Salesiana, Ecuador); Esteban Fernando Ordóñez-Morales (Salesian Polytechnic University, Ecuador); Monica Huerta (Universidad Estatal de Milagro, Ecuador); Edison Moreno-Cardenas (EM Research & Tech, Peru)"
+    },
+    {
+     "time": "15:36",
+     "title": "AuraNodeEngine: A Hybrid Edge-Cloud Execution Engine for Dynamic Rule Processing on Resource-Constrained IoT Devices",
+     "authors": "Denis Altuve, Daniel Castellanos, Carlos Bran, Karens Medrano, Kelman Belloso and Angel Mangandi (Universidad Don Bosco, El Salvador)"
+    },
+    {
+     "time": "15:48",
+     "title": "Resilient Edge Telemetry with RAM-Based Buffering and Bounded Backlog Synchronization Under Network Disconnections",
+     "authors": "José Recinos (Universidad de San Carlos de Guatemala, Guatemala)"
+    }
+   ],
+   "id": "c26-051"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "15:00",
+   "end": "16:00",
+   "title": "BIO-2 · Biomedical Signals, Data & Health Informatics",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Biomedical Engineering",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "BIO-2",
+   "papers": [
+    {
+     "time": "15:00",
+     "title": "Explainable Artificial Intelligence in ECG-Based Analysis for Coronary Microvascular Dysfunction: A Focused Literature Review",
+     "authors": "Mario Alberto Castillo Rosete and Miguel Morales Sandoval (National Institute of Astrophisics, Optics and Electronics, Mexico); Bartolomé Reyes Ramírez (National Institute of Astrophisics, Optics and Electrónics, Mexico); Ignacio Enrique Zaldivar-Huerta (National Institut of Astrophisics, Optics and Eelectronics, Mexico)"
+    },
+    {
+     "time": "15:12",
+     "title": "Analyzing Active and Semi-Supervised Learning Across Representations for Multilingual Biomedical Text Classification",
+     "authors": "Christopher Flores (Universidad del Bío-Bío, Chile)"
+    },
+    {
+     "time": "15:24",
+     "title": "A GIS-Based Spatial Predictive Tool for Assessing Cochliomyia Hominivorax Myiasis Risk Under a One Health Framework",
+     "authors": "María José Gálvez, Alison Rodríguez and Reyna Valle (Universidad Tecnológica Centroamericana, Honduras)"
+    },
+    {
+     "time": "15:36",
+     "title": "Experimental Validation of a Embedded Retrofit Architecture for Legacy Radiation Counting Instruments",
+     "authors": "Vladimir Polanco-Zepeda (Universida de El Salvador, El Salvador); Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador); Carlos Osmín Pocasangre Jiménez and Fernando Arevalo (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "15:48",
+     "title": "Alternative Human Interfaces for Robotic Control: Gesture, Speech, and Biomedical Signal Modalities",
+     "authors": "Ana Marcela Padilla Micheo, Oscar Fernando López, Luis Alberto Rivera and Miguel Zea (Universidad del Valle de Guatemala, Guatemala)"
+    }
+   ],
+   "id": "c26-052"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "15:00",
+   "end": "16:00",
+   "title": "CS-2 · Generative AI & Software Engineering",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Computer",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "CS-2",
+   "papers": [
+    {
+     "time": "15:00",
+     "title": "Human-AI Collaboration Model for Software Engineering Teams: A Conceptual Framework for Integrating Generative Artificial Intelligence into Hybrid Teams",
+     "authors": "José Humberto Vásquez Pereyra (Universidad Privada Antenor Orrego, Peru)"
+    },
+    {
+     "time": "15:12",
+     "title": "A Retrieval-Augmented Generation Framework for Change Impact Analysis in a University Information System: A Pilot Case Study",
+     "authors": "Carlos Alfaro, Cesar Espinoza and Joyce Posada (Don Bosco University, El Salvador)"
+    },
+    {
+     "time": "15:24",
+     "title": "TOON as a Replacement for JSON in Artificial Intelligence Projects for Optimized Token Usage",
+     "authors": "Joshua Villavicencio and Katherine Dayanna Diaz Zuniga (Don Bosco University, El Salvador)"
+    },
+    {
+     "time": "15:36",
+     "title": "A Multi-Agent Generative AI Architecture Supported by a Serverless Agrivoltaic Data Pipeline",
+     "authors": "Leonardo Cardinale-Villalobos, Abel Méndez-Porras and Hugo Sánchez (Instituto Tecnológico de Costa Rica, Costa Rica); Anibal Ruiz-Barquero (Instituto Tecnologico de Costa Rica, Costa Rica); Wayner Montero-Carmona, Fabián Echeverría- Beirute and Luis Diego Murillo-Soto (Instituto Tecnológico de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "15:48",
+     "title": "Toward Intrinsically Explainable Reinforcement Learning for Web GUI Testing via a Workflow-Aware Knowledge Graph Framework",
+     "authors": "Mildred Caballeros Morales and Javier Cubo (Universidad Internacional de la Rioja (UNIR), Spain); Nadia Gamez (Universidad Internacional de la Rioja, Spain)"
+    }
+   ],
+   "id": "c26-053"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "15:00",
+   "end": "15:30",
+   "title": "\"Cables para líneas de transmisión subterráneas\"",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "VIAKON",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-054"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "15:30",
+   "end": "16:00",
+   "title": "Transformación digital, utilizando la IEC 61850 como guia",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "ESINSA",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-055"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:00",
+   "end": "16:30",
+   "title": "COFFEE BREAK",
+   "room": "All rooms",
+   "type": "Break",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-056"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "PES-3 · Distribution & Transmission Networks",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Power & Energy",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "PES-3",
+   "papers": [
+    {
+     "time": "16:30",
+     "title": "Fault Classification and Location in Distribution Networks Using MLP Neural Networks",
+     "authors": "Rafael Alberto Garcia Tinoco (Universidad Nacional Autónoma de Honduras, Honduras); César Javier González and Mauricio E. Samper (National University of San Juan, Argentina); Pabel Alberto Cardenas (National University of San Juan, Argentina & Electric Energy Regulatory Commission (CREE), Honduras); Jonh Morales (National University of San Juan, Argentina)"
+    },
+    {
+     "time": "16:42",
+     "title": "Harmonic Assessment in the Electrical Distribution System of the San Salvador Metropolitan Area",
+     "authors": "Carlos Osmín Pocasangre Jiménez (Universidad de El Salvador, El Salvador); Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador); Fernando Arevalo (Universidad de El Salvador, El Salvador); Irvin Jose Escobar Sarmiento (Universidad Tecnologica de El Salvador, El Salvador); Ronal Alexander Hernández González and Werner Meléndez- Valle (Universidad de El Salvador, El Salvador); Jose Roberto Ramos Lopez (University of El Salvador, El Salvador)"
+    },
+    {
+     "time": "16:54",
+     "title": "Relative Configuration of Distribution Infrastructure and Electricity Losses in Ecuador",
+     "authors": "Antonio Pérez-Torres (Universidad Politécnica Salesiana, Ecuador); Henrry Moyano-Bojorque (University of Cuenca, Ecuador); Jairo Sacoto (Universidad Politecnica Salesiana, Ecuador); Esteban Fernando Ordóñez-Morales (Salesian Polytechnic University, Ecuador)"
+    },
+    {
+     "time": "17:06",
+     "title": "Field-Calibrated Assessment of MV Cable Direct Burial Without Select Backfill: Productivity, CAPEX, and Construction Carbon Emissions",
+     "authors": "Felipe Eduardo Carvallo Novoa and Orlando Enrique Mena Martinez (SAESA, Chile); Johannes Eiberger (SpiderPlow Group of Companies, Chile); Sebastião Carvalho Filho and Igor Deliborio (Prysmian, Brazil); Sara Alvarado (Prysmian, Costa Rica)"
+    },
+    {
+     "time": "17:18",
+     "title": "Synergistic Uprating of Overhead Lines: Advanced Conductor (ACCC) Combined with High-Emissivity Coating (E3X) for Higher Ampacity and Lower Losses",
+     "authors": "Sebastião Carvalho Filho and Marcondes Takeda (Prysmian, Brazil); Sara Alvarado (Prysmian, Costa Rica); Celso Magalhães and Augusto Tortorella (CTC Global, Brazil)"
+    }
+   ],
+   "id": "c26-057"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "Datacenters y energía: ¿está Guatemala preparada?",
+   "room": "Auditorium",
+   "type": "Invited talk",
+   "speakers": "Ing. Sergio Fratti",
+   "org": "BICSI",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-058"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "CS-3 · Computing for Society: Security, Privacy & Analytics",
+   "room": "Cafetal 2",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Computer",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "CS-3",
+   "papers": [
+    {
+     "time": "16:30",
+     "title": "Evaluation of Automated Vishing Attacks: Technical Effectiveness and Human Cognitive Vulnerability",
+     "authors": "Elisa Aldana (Universidad Centroamericana \"José Simeón Canas\", El Salvador); Melvin Alexander Díaz (Universidad Centroamericana José Simeón Cañas, El Salvador); David Alberto Díaz (Universidad Cemtroamericana José Simeón Cañas, El Salvador); Jose Guidos (Universidad Centroamaericana José Simeón Cañas, El Salvador); Rene Guzmán and Ronaldo Canizales (Universidad Centroamericana José Simeón Cañas, El Salvador)"
+    },
+    {
+     "time": "16:42",
+     "title": "Spatio-Temporal Framework for Automated News Monitoring: A Human Rights Case Study",
+     "authors": "Ronaldo Canizales (Universidad Centroamericana José Simeón Cañas, El Salvador); Mauricio Erazo (Universidad Loyola Andalucía, Spain)"
+    },
+    {
+     "time": "16:54",
+     "title": "Predictive Model for First-Year University Student Dropout Using Classification Algorithms",
+     "authors": "Raul Anibal Arevalo Alvarado (Don Bosco University, El Salvador); Marcos De Jesus Hernandez Sorto and Kevin Enrique Ponce Rodríguez (Don Bosco, El Salvador)"
+    },
+    {
+     "time": "17:06",
+     "title": "From Anecdote to Evidence: A Geospatial and Behavioral Analytics Pipeline for Data-Driven Out-of-Home Advertising in a Latin American City",
+     "authors": "Pablo David Morales Martínez (Universidad del Istmo, Guatemala)"
+    },
+    {
+     "time": "17:18",
+     "title": "AAFA: Age-Aware Face Anonymization for Privacy-Preserving Video Processing",
+     "authors": "Rubén Torres (STEAM Robotics Academy, El Salvador); Bryan Vásquez-Pineda (IEEE, USA & STEAM Robotics Academy, El Salvador); Diego Miranda (STEAM Robotics Academy, El Salvador); Asheyn Rivera Fajardo (Universidad Nacional Autónoma de Honduras, Honduras); Manuel Cardona (SARA Robotics, El Salvador)"
+    }
+   ],
+   "id": "c26-059"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "IAS-2 · Industrial Power Systems & Electrical Machines",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Industry Applications",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "IAS-2",
+   "papers": [
+    {
+     "time": "16:30",
+     "title": "Finite-Element Analysis of Magnetic Flux Density in an IE4 Line-Start Permanent Magnet Motor Under Voltage Unbalance",
+     "authors": "Olvin Raudales (Universidad Nacional Autónoma de Honduras, Honduras); Diego A. Alvarenga Cortez (Universidad Nacional Autónoma de Hondurass, Honduras); Dereck David Rubio Sierra (Universidad Nacional Autónoma de Honduras, Honduras); Jonathan Muñoz Tabora (National Autonomous University of Honduras, Honduras)"
+    },
+    {
+     "time": "16:42",
+     "title": "Voltage Sags in Industrial Facilities: Characterization Through Power Quality Monitoring and Evaluation of Solutions for Operational Continuity",
+     "authors": "Samuel Calderon and Wilber Calderón (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "16:54",
+     "title": "PowerSuite EE: An Integrated MATLAB-Based Platform for Electrical Power Analysis and Hybrid Diagnostics",
+     "authors": "Ernesto Antonio Morales Rodriguez, César Armando Morales Molina, José Gerardo Alvarado Polanco, Abner Alberto Godínez Hernández, Gerardo Enrique Mena Recinos and Emerson Alexis Alvarez Corona (Universidad de Sonsonate, El Salvador)"
+    },
+    {
+     "time": "17:06",
+     "title": "Stacking-Based Diagnostic Framework Integrating Traditional Dissolved Gas Analysis (DGA) Methods with Random Forest for Fault Analysis in Power Transformers",
+     "authors": "Juan José Montero-Jiménez, Gustavo Adolfo Gomez-Ramirez, José Francisco Pérez-Guardiola and Sebatián Mata-Ortega (Tecnológico de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "17:18",
+     "title": "Standards-Based Multi-Label Fault Detection and Classification in Low-Voltage Electrical Systems Using IoT Data and Machine Learning",
+     "authors": "Carlos Levi Cartagena Lobos and Alexander Enrique Rivas (ITCA FEPADE, El Salvador)"
+    }
+   ],
+   "id": "c26-060"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "Electrical Safety Workshop Track",
+   "room": "De la Vega",
+   "type": "Workshop / tutorial",
+   "speakers": "Ing. Nehad El Sherif · Ing. José Vallejos",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-061"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "17:30",
+   "title": "EDS-1 · Semiconductor Devices & Space Electronics",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Electron Devices",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "EDS-1",
+   "papers": [
+    {
+     "time": "16:30",
+     "title": "Total Ionizing Dose Radiation Analysis and Shielding Requirement for the CubeSat Quetzal-2's Mission Reliability",
+     "authors": "Astryd Rolinda Magaly Beb Caal, José Ignacio Romero Casasola and Carlos Alberto Esquit (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "16:42",
+     "title": "Wafer Defect Analysis Using Convolutional Neural Networks",
+     "authors": "Esteban Longo, Ioseph Larsson Polster González and Carlos Alberto Esquit (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "16:54",
+     "title": "Power Consumption Characterization of Planar MOSFET and FinFET Technologies Across Nanometer Nodes: A Comparative HSPICE Study",
+     "authors": "Alan Gomez, Samuel David Tortola, Giovanni Alessandro Jimenez Román and Carlos Alberto Esquit (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "17:06",
+     "title": "Physics-Informed Genetic Algorithm for Structural Optimization of PbS Quantum Dot Tandem Solar Cells",
+     "authors": "Gabriela Lourdes Rodríguez Parada (Universidad Don Bosco, El Salvador); Nelson Xavier Mejía Sánchez (Valencian International University, Spain); Andrea Sofía Lemus Cea (Universidad de El Salvador, El Salvador); Karens Medrano (Universidad Don Bosco, El Salvador)"
+    }
+   ],
+   "id": "c26-062"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "16:30",
+   "end": "18:00",
+   "title": "Net Working",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-063"
+  },
+  {
+   "date": "2026-11-12",
+   "start": "18:30",
+   "end": "23:30",
+   "title": "Cena Típica",
+   "room": "Hotel Barceló",
+   "type": "Social event",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-064"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "08:00",
+   "end": "16:30",
+   "title": "Feria comercial · Exposición de stands",
+   "room": "Salón Real",
+   "type": "Trade fair",
+   "speakers": "",
+   "org": "",
+   "notes": "Runs until the fair closing at 16:30; start time not printed.",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-065"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Transformación de la atención de la salud mediante la convergencia de la ciencia y la tecnología",
+   "room": "Asturias",
+   "type": "Invited talk",
+   "speakers": "PhD Luis Kun",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-066"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Gobernar la IA, proteger los datos, blindar la red: el nuevo mandato del CISO",
+   "room": "Auditorium",
+   "type": "Invited talk",
+   "speakers": "",
+   "org": "Liberty Networks",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-067"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Reunión Consejo CAPANA",
+   "room": "Cafetal 2",
+   "type": "Meeting",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-068"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Código de Red: herramienta para una transición energética en la región",
+   "room": "Dalí",
+   "type": "Invited talk",
+   "speakers": "Luis Iván Ruiz",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-069"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "STATCOM en Latinoamérica: diseño e implementación de sistemas dinámicos de última generación",
+   "room": "De la Vega",
+   "type": "Invited talk",
+   "speakers": "Ing. Iván Isidro García",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-070"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "The Importance and Process of Auditing an Electrical Safety Program",
+   "room": "Garavito",
+   "type": "Invited talk",
+   "speakers": "Shahid Jamil",
+   "org": "IEEE IAS",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-071"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "09:00",
+   "end": "10:00",
+   "title": "Digitalizacion de subestaciones bajo el estándar IEC 61850",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "ELECTROTEK",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-072"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:00",
+   "end": "10:30",
+   "title": "COFFEE BREAK",
+   "room": "All rooms",
+   "type": "Break",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-073"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "PES-4 · Wind Energy Systems",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Power & Energy",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "PES-4",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Analyzing the Performance of Three Different PMSG Topologies for Applications in Low Power Wind Turbines",
+     "authors": "Reynaldo Iracheta Cortez (SECIHTI, Mexico); Joyce López Gómez and Ana Karen Lopez Gonzalez (UNISTMO, Mexico)"
+    },
+    {
+     "time": "10:42",
+     "title": "On Designing Vibrating-Type PMSGs for Applications in Bladeless Wind Turbines",
+     "authors": "Joyce López Gómez (UNISTMO, Mexico); Reynaldo Iracheta Cortez (SECIHTI, Mexico); Ana Karen Lopez Gonzalez (UNISTMO, Mexico)"
+    },
+    {
+     "time": "10:54",
+     "title": "Field Data-Driven Parametric Modeling and Validation of the Power Curve of a Vertical Axis Wind Turbine",
+     "authors": "Gregorio Martínez Reyes (UNISTMO, Mexico); Reynaldo Iracheta Cortez (SECIHTI, Mexico)"
+    },
+    {
+     "time": "11:06",
+     "title": "Impact of Frequency-Dependent Cable Parameters on Voltage Regulation and Power Losses in Wind Farm Collection Networks: A Tehuantepec Case Study",
+     "authors": "Ana Karen Lopez Gonzalez (UNISTMO, Mexico); Reynaldo Iracheta Cortez (SECIHTI, Mexico); Joyce López Gómez (UNISTMO, Mexico)"
+    },
+    {
+     "time": "11:18",
+     "title": "Statistical Characterization of Wind Resources for Wind Farm Planning in Southeastern Mexico",
+     "authors": "José Toledo Wong (Tecnológico Nacional de México / Centro Nacional de Investigación y Desarrollo Técnologico, Mexico); Susana Estefany De León- Aldaco (Centro Nacional de Investigación y Desarrollo Tecnológico, Mexico); Jesús Aguayo Alquicira (Cenidet, Mexico); Edgar Octavio Molina Mercado (ITS de los Reyes, Mexico); Eligio Flores Rodríguez (ITS de Irapuato, Mexico); Ricardo Eliú Lozoya Ponce (IT. Chihuahua, Mexico)"
+    }
+   ],
+   "id": "c26-074"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "Foro IA-Verse: El nuevo ecosistema digital e industrial",
+   "room": "Auditorium",
+   "type": "Forum",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-075"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "Reunión Consejo CAPANA",
+   "room": "Cafetal 2",
+   "type": "Meeting",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-076"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "RAS-2 · Robotat Ecosystem, Swarms & Aerial Robotics",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Robotics & Automation",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "RAS-2",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Robotat Linalg: A Lightweight Embedded Numerical Library Stack for Control and Robotics Applications",
+     "authors": "Laura Andrea Barrientos, Miguel Zea and Luis Alberto Rivera (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "10:42",
+     "title": "Design and Experimental Validation of a Low-Cost Omnidirectional Mobile Robot for the Robotat Ecosystem",
+     "authors": "Christian Campos, Miguel Zea and Luis Alberto Rivera (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "10:54",
+     "title": "Integration and Validation of a Crazyflie 2.1 Infrastructure for Individual and Swarm Flight in the Robotat",
+     "authors": "Julio Avila, Miguel Zea, Christian Cruz, César Schwendener, Angela Figueroa and Luis Alberto Rivera (Universidad del Valle de Guatemala, Guatemala)"
+    },
+    {
+     "time": "11:06",
+     "title": "Impact of Environment Topology on Robotic Swarm Aggregation: An Experimental Study with Atta-Bots",
+     "authors": "Eduardo Fallas-Valverde and Juan Carlos Brenes-Torres (Instituto Tecnológico de Costa Rica, Costa Rica); Cindy Calderón- Arce and Rebeca Solís-Ortega (Institute of Technology, Costa Rica)"
+    },
+    {
+     "time": "11:18",
+     "title": "Time-to-Conflict-Aware Event Prioritization for UAV Conflict Prevention in Low-Altitude Airspace",
+     "authors": "Erick Menjivar (Universidad Francisco Gavidia, El Salvador)"
+    }
+   ],
+   "id": "c26-077"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "12:30",
+   "title": "FET100 Session",
+   "room": "De la Vega",
+   "type": "Invited talk",
+   "speakers": "Fernando Guarín (EDS IEEE) · Prof. Paul Berger · Dr. Wilfrido Moreno",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-078"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "11:30",
+   "title": "CAS-1 · Circuits, Digital Hardware & Timing",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Circuits & Systems",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "CAS-1",
+   "papers": [
+    {
+     "time": "10:30",
+     "title": "Segmented Precision ALU for Energy-Aware Computing: A RISC-V Bitfield-Controlled Approach",
+     "authors": "Erick Obregon Fonseca (Instituto Tecnológico de Costa Rica, Costa Rica); Roberto Vargas Villalobos (Costa Rica Institute of Technology, Costa Rica); Isabel Sevilla Valverde, Steven Fonseca Bermudez, Fabrizio Vivas Martinez, Luis G. Leon-Vega and Jorge Castro-Godínez (Instituto Tecnológico de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "10:42",
+     "title": "Implementation of a Floating-Point Divider on an FPGA Using Novel USP-Awadhoot Algorithm",
+     "authors": "Miguel Flores (Don Bosco University, El Salvador); Udayan Sunil Patankar (Stoneridge Electronics & Taltech- Tallinn University of Technology, Estonia); Sunil Patankar (India); Ants Koel (Tallinn University of Technology, Estonia)"
+    },
+    {
+     "time": "10:54",
+     "title": "Experimental Realization of a Half-Order Analog Integrator Using Cascaded Active Filters",
+     "authors": "Nathaly Jimenez-Salazar, Luis Poveda-Wong and Arnoldo Castro-Castro (Universidad de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "11:06",
+     "title": "Chaos, Synchronization, and Experimental Validation of Hindmarsh-Rose Neurons Under Heterogeneous Memristive Coupling",
+     "authors": "Irwin A Diaz (Institute for Scientific and Technological Research of San Luis Potosi (IPICYT), Mexico); Eduardo Elpidio Rodríguez Martínez (IPICYT, Mexico)"
+    },
+    {
+     "time": "11:18",
+     "title": "PrimeTime SI-Based Crosstalk and Timing Characterization of a 32-Bit Processor Datapath in 32 nm CMOS",
+     "authors": "Rudy Estuardo Gregorio Ramírez, Alex James Ramírez Aldana and Carlos Alberto Esquit (Universidad del Valle de Guatemala, Guatemala)"
+    }
+   ],
+   "id": "c26-079"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "10:30",
+   "end": "11:00",
+   "title": "Transformando la gestión de redes eléctricas mediante telegestión: experiencias exitosas de Brasil e implementación en Centroamérica",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "(company not stated)",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-080"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "11:00",
+   "end": "11:30",
+   "title": "De la deteccion a la decision: tres aplicaciones de monitoreo continuo con impacto operativo y económico",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "SENSA",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-081"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "PES-5 · Renewable Planning, Forecasting & Storage",
+   "room": "Asturias",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Power & Energy",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "PES-5",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Application of TOPSIS Method for Optimal Wind Turbine Selection in a Rural Community in Oaxaca Mexico",
+     "authors": "Benito Cortés Martínez, Ilse M Saldivar Rodríguez, Ingrid Martínez Reyes, Jose R Dorrego Portela and Gabriela Rivadeneyra Romero (Universidad del Istmo, Mexico); Quetzalcoatl C Hernandez-Escobedo (Ingeniería en energías renovables ENES, Mexico)"
+    },
+    {
+     "time": "11:42",
+     "title": "Adaptive Wind Speed Forecasting Using Operational Wind Regimes and Markov Decision Processes",
+     "authors": "Iridian G. Ortiz-Jimenez (UNISTMO, Mexico); Reynaldo Iracheta Cortez (SECIHTI, Mexico)"
+    },
+    {
+     "time": "11:54",
+     "title": "Multi-Horizon Forecasting of Photovoltaic Generation for Optimizing Self-Consumption with BESS Using Machine Learning Models and Tariff Analysis",
+     "authors": "David Berrios and William Bonilla (University of El Salvador, El Salvador); Fernando Arevalo (Universidad de El Salvador, El Salvador); Omar Otoniel Flores-Cortez (Universidad Tecnologica de El Salvador, El Salvador); Carlos Osmín Pocasangre Jiménez and Werner Meléndez-Valle (Universidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "12:06",
+     "title": "A Stochastic Framework for Assessing Battery Energy Storage Operation and Degradation Under Renewable Generation Uncertainty",
+     "authors": "Manuel Cardona (SARA Robotics, El Salvador); Kevin Aaron Raudales and Octavio Alvarenga (Universidad Nacional de San Juan, Argentina); César Javier González (Universidad Nacional Autonoma de Honduras, Honduras); Fernando Serrano and Marco Flores (Universidad Nacional Autónoma de Honduras, Honduras)"
+    },
+    {
+     "time": "12:18",
+     "title": "Supercapacitors for Frequency Control in Power Systems: A Bibliometric and Technical Review",
+     "authors": "Ever Samuel Gonzalez and Daisy Johanna Rodríguez Nuñez (Universidad Nacional Autonoma de Honduras, Honduras); Jonathan Muñoz Tabora (National Autonomous University of Honduras, Honduras); Cinthya Irias (Universidad Nacional Autonoma de Honduras, Honduras)"
+    }
+   ],
+   "id": "c26-082"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "IAS-3 · AI & Automation for Agriculture",
+   "room": "Dalí",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Industry Applications",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "IAS-3",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Reuse of Components from Obsolete Machinery for Developing a Metal Detection System for Cocoa Paste: A Proof of Concept",
+     "authors": "Esteban Fernando Ordóñez-Morales (Salesian Polytechnic University, Ecuador); Monica Huerta (Universidad Estatal de Milagro, Ecuador); Jairo Sacoto (Universidad Politecnica Salesiana, Ecuador); Antonio Pérez-Torres (Universidad Politécnica Salesiana, Ecuador); Roger J. Sarmiento and Marlene C. Villanueva (Universidad Politecnica Salesiana, Ecuador)"
+    },
+    {
+     "time": "11:42",
+     "title": "Instance Segmentation for Automated Pineapple Counting: A Deep Learning Approach Using Mask R-CNN",
+     "authors": "Rodrigo Herrera (Universidad Cenfotec, Costa Rica)"
+    },
+    {
+     "time": "11:54",
+     "title": "Spectral Classification of Coffee Varieties for Rust Resistance Using Random Forest: Early Detection in Asymptomatic Leaves",
+     "authors": "Nelson Xavier Mejía Sánchez (Valencian International University, Spain); Samuel De la O, Gerardo Benítez and Mario Saravia (Universidad de El Salvador, El Salvador); Carlos Rudamas (Unievrsidad de El Salvador, El Salvador)"
+    },
+    {
+     "time": "12:06",
+     "title": "From Public Data to Real-Farm Conditions: Evaluating Domain Shift and Data Augmentation for Dairy Cattle Behavior Detection",
+     "authors": "Marcelo Tsuguio Okano (Paulista University - UNIP, Brazil); Chan Kong Fong and Marcio J. P. Antonio (Paulista University (UNIP), Brazil)"
+    },
+    {
+     "time": "12:18",
+     "title": "Design, Structural Analysis, and Robotic Validation of a Clamshell End Effector for Agricultural Grain Handling",
+     "authors": "Alicia Reyes-Duke, Silvio Javier Lázaro-Cárdenas, María Celeste Parada-Acosta and Víctor Eduardo Guerra (Universidad Tecnológica Centroamericana, (UNITEC), Honduras)"
+    }
+   ],
+   "id": "c26-083"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "11:30",
+   "end": "12:30",
+   "title": "EDU-2 · Engineering Education & AI in Learning",
+   "room": "Garavito",
+   "type": "Technical paper session",
+   "speakers": "",
+   "org": "Education",
+   "notes": "",
+   "source": "technical PDF",
+   "code": "EDU-2",
+   "papers": [
+    {
+     "time": "11:30",
+     "title": "Collaborative Learning Strategies in Electrical Engineering: Gender Perspective",
+     "authors": "Mercedes Chacón Vásquez (Universidad de Costa Rica, Costa Rica)"
+    },
+    {
+     "time": "11:42",
+     "title": "A Verification-Centered Framework for AI Literacy in Construction Engineering Technology Education",
+     "authors": "Chad Roller (University of Oklahoma, USA); Amy King Lewis, Sadia Raisa and Soojin Yoon (Oklahoma State University, USA)"
+    },
+    {
+     "time": "11:54",
+     "title": "Student Perceptions of AI-Supported Feedback on Programming Projects: An Exploratory Case Study",
+     "authors": "Carlos Barillas Colón (Galileo University); Miguel Morales Chan, Milvia Rosales and Rocael Hernandez-Rizzardini (Galileo University, Guatemala)"
+    },
+    {
+     "time": "12:06",
+     "title": "Junteki-EDU for Adaptive Expertise in Engineering Design Education",
+     "authors": "Estefany Valencia (Universidad Don Bosco, El Salvador); Gustavo A Salloum S (KAIZEN COMPANY INC, Panama)"
+    },
+    {
+     "time": "12:18",
+     "title": "Cyber-Physical Systems as a Basis for the Progressive Introduction of Computing and Engineering Fundamentals",
+     "authors": "Juan A. Solano-Quesada (Costa Rica Institute of Technology (Tecnológico de Costa Rica), Costa Rica); Ignacio Trejos-Zelaya (Universidad Cenfotec, Costa Rica)"
+    }
+   ],
+   "id": "c26-084"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "11:30",
+   "end": "12:00",
+   "title": "El futuro del cable: Innovaciones que impulsan eficiencia, sostenibilidad y desempeño.",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "PRYSMIAN",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-085"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "12:00",
+   "end": "12:30",
+   "title": "Ciberelectricidad 4.0: del bit al Megawatt, Ciberseguridad OT para el sector eléctrico.",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "MABREX",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-086"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "12:30",
+   "end": "14:00",
+   "title": "ALMUERZO",
+   "room": "All rooms",
+   "type": "Lunch",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-087"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "Radio Sensing for Vehicle Collision Prevention",
+   "room": "Asturias",
+   "type": "Invited talk",
+   "speakers": "Carlos Gutiérrez",
+   "org": "Distinguished Lecturer VTS",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-088"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Foro: Eficiencia Energética 360°, tecnología, gestión y sostenibilidad",
+   "room": "Auditorium",
+   "type": "Forum",
+   "speakers": "",
+   "org": "GEE · PES IEEE",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-089"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Taller Women in Engineering (WIE)",
+   "room": "Cafetal 2",
+   "type": "Workshop / tutorial",
+   "speakers": "Karen Tobar",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-090"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "Riesgos eléctricos en plantas FV: del commissioning al O&M",
+   "room": "Dalí",
+   "type": "Invited talk",
+   "speakers": "Ing. Carlos Boj",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-091"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Guatemala: política energética y oportunidades de inversión en el sector eléctrico",
+   "room": "De la Vega",
+   "type": "Invited talk",
+   "speakers": "",
+   "org": "GET.pro y MEM",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-092"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "16:00",
+   "title": "Workshop AI y Datos",
+   "room": "Garavito",
+   "type": "Workshop / tutorial",
+   "speakers": "Jaime García",
+   "org": "IEEE Computer Society",
+   "notes": "Jaime's session",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-093"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "14:00",
+   "end": "15:00",
+   "title": "Postes en PRFV y estructuras metálica: Criterios técnicos y económicos para una infraestructura eficiente y confiable.",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "PROLECSA",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-094"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "15:00",
+   "end": "16:00",
+   "title": "Big Data: de los datos al conocimiento",
+   "room": "Asturias",
+   "type": "Invited talk",
+   "speakers": "Dr. Roger Clotet Martínez",
+   "org": "Universidad Internacional de Valencia",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-095"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "15:00",
+   "end": "15:30",
+   "title": "Uso de FR3 Aceite dielectrico en transformdores para energías renovables, centros de datos y baterias",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "CARGILL",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-096"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "15:30",
+   "end": "16:00",
+   "title": "Iluminación como Ecosistema IoT: Integración de Controles y BMS",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "Asociación Guatemalteca de Iluminación",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-097"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "16:00",
+   "end": "16:30",
+   "title": "COFFEE BREAK",
+   "room": "All rooms",
+   "type": "Break",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-098"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "16:30",
+   "end": "17:00",
+   "title": "Clausura",
+   "room": "Salón Expositores, 2do nivel (Entrada Libre)",
+   "type": "Industry talk",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "industry PDF",
+   "papers": [],
+   "id": "c26-099"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "16:30",
+   "end": "18:00",
+   "title": "Clausura de la feria",
+   "room": "Salón Real",
+   "type": "Social event",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-100"
+  },
+  {
+   "date": "2026-11-13",
+   "start": "19:00",
+   "end": "23:30",
+   "title": "Cena de Clausura",
+   "room": "Not stated",
+   "type": "Social event",
+   "speakers": "",
+   "org": "",
+   "notes": "",
+   "source": "day grid",
+   "papers": [],
+   "id": "c26-101"
+  }
+ ]
+}
